@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Personal_Information",
+        "result": {
+            "Accuracy": 6.5,
+            "Relevance": 7.5,
+            "Coherence": 9.0,
+            "Fluency": 9.5
+        }
+    },
+    {
+        "name": "Appointments_and_Time_Specific_Information",
+        "result": {
+            "Accuracy": 9.0,
+            "Relevance": 9.5,
+            "Coherence": 9.67,
+            "Fluency": 9.83
+        }
+    },
+    {
+        "name": "Significant_Events",
+        "result": {
+            "Accuracy": 7.04,
+            "Relevance": 7.51,
+            "Coherence": 8.62,
+            "Fluency": 9.18
+        }
+    },
+    {
+        "name": "Habits_and_Preferences",
+        "result": {
+            "Accuracy": 7.98,
+            "Relevance": 8.35,
+            "Coherence": 9.17,
+            "Fluency": 9.55
+        }
+    },
+    {
+        "name": "Relationships_and_Connections",
+        "result": {
+            "Accuracy": 7.33,
+            "Relevance": 8.0,
+            "Coherence": 8.87,
+            "Fluency": 9.33
+        }
+    },
+    {
+        "name": "Contextual_and_Multi_Session_Memory",
+        "result": {
+            "Accuracy": 7.1,
+            "Relevance": 7.6,
+            "Coherence": 8.78,
+            "Fluency": 9.28
+        }
+    },
+    {
+        "name": "Locations_and_Places",
+        "result": {
+            "Accuracy": 6.51,
+            "Relevance": 7.09,
+            "Coherence": 8.6,
+            "Fluency": 9.11
+        }
+    },
+    {
+        "name": "Plans_and_Goals",
+        "result": {
+            "Accuracy": 7.38,
+            "Relevance": 7.5,
+            "Coherence": 8.88,
+            "Fluency": 9.25
+        }
+    },
+    {
+        "name": "Ownership_and_Possessions",
+        "result": {
+            "Accuracy": 6.18,
+            "Relevance": 7.18,
+            "Coherence": 8.27,
+            "Fluency": 8.91
+        }
+    }
+]

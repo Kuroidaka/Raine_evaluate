@@ -1,0 +1,3630 @@
+{
+    "Personal_Information": [
+        {
+            "tell": "I will turn 22 on February 7, 2025.",
+            "question": "What is my my birthday",
+            "expected": "2003-02-07 00:00:00"
+        },
+        {
+            "tell": "nan",
+            "question": "Do you know when is my birth",
+            "expected": "From the memory I have, you will turn 22 on February 7, 2025. So your birth date is February 7, 2003."
+        },
+        {
+            "tell": "Hello my name is Canh",
+            "question": "What is my Name",
+            "expected": "Your name is Canh"
+        },
+        {
+            "tell": "I can speak three languages fluently.",
+            "question": "How many languages can I speak fluently?",
+            "expected": "You can speak three languages fluently."
+        }
+    ],
+    "Appointments_and_Time_Specific_Information": [
+        {
+            "tell": "I will turn 22 on February 7, 2025.",
+            "question": "What is my my birthday",
+            "expected": "2003-02-07 00:00:00"
+        },
+        {
+            "tell": "nan",
+            "question": "Do you know when is my birth",
+            "expected": "From the memory I have, you will turn 22 on February 7, 2025. So your birth date is February 7, 2003."
+        },
+        {
+            "tell": "My birthday is on May 12, 1998.",
+            "question": "When is my birthday?",
+            "expected": "Your birthday is on May 12, 1998."
+        },
+        {
+            "tell": "I always celebrate Christmas with my family.",
+            "question": "How do I usually celebrate Christmas?",
+            "expected": "You celebrate Christmas with your family."
+        },
+        {
+            "tell": "I once spent a whole day birdwatching in the forest.",
+            "question": "What outdoor activity have I spent a full day doing?",
+            "expected": "You spent a day birdwatching in the forest."
+        },
+        {
+            "tell": "My favorite way to celebrate my birthday is with a picnic.",
+            "question": "How do I like to celebrate my birthday?",
+            "expected": "You like celebrating with a picnic."
+        }
+    ],
+    "Habits_and_Preferences": [
+        {
+            "tell": "I'm a fan of  mystery novels",
+            "question": "What type of books do I like?",
+            "expected": "You like reading mystery novels."
+        },
+        {
+            "tell": "If I have time I always want to go to Da Lat city",
+            "question": "What's my favorite city to go if I'm have time",
+            "expected": "Your favorite city to go to if you have time is Da Lat"
+        },
+        {
+            "tell": "Tram is really hate snake you know?",
+            "question": "what my girlfriend hate most",
+            "expected": "Your girlfriend, Tram, hates snakes the most"
+        },
+        {
+            "tell": "I love Pizza",
+            "question": "Do you know my favorite food?",
+            "expected": "Yes, your favorite food is pizza!"
+        },
+        {
+            "tell": "I feel happiest when I\u2019m with my family.",
+            "question": "Do you know when do i feel happinest?",
+            "expected": "When you're with your family"
+        },
+        {
+            "tell": "My favorite holiday is Tet.",
+            "question": "What is my favorite holiday?",
+            "expected": "Your favorite holiday is Tet"
+        },
+        {
+            "tell": "The language I\u2019m currently learning is Japanese",
+            "question": "What language am i learning?",
+            "expected": "You are currently learning Japanese"
+        },
+        {
+            "tell": "I prefer tea over coffee in the morning.",
+            "question": "What do I prefer in the morning, tea or coffee",
+            "expected": "You prefer tea"
+        },
+        {
+            "tell": "The sport I usually enjoy playing every week is basketball",
+            "question": "What is the sport I enjoy playing every week?",
+            "expected": "Basketball"
+        },
+        {
+            "tell": "I usually wake up at 6:30 in the morning.",
+            "question": "Everyday what time do I usually wake up?",
+            "expected": "You often wake up at 6:30 in the morning"
+        },
+        {
+            "tell": "The app I use the most in my phone is Instagram",
+            "question": "Which app do I use the most on my phone?",
+            "expected": "You use Instagram the most"
+        },
+        {
+            "tell": "The type of weather I dislike the most is humid and hot.",
+            "question": "What type of weather do I dislike the most?",
+            "expected": "Humid and hot weather"
+        },
+        {
+            "tell": "I usually spend my evenings reading books ",
+            "question": "How do I usually spend my evenings?",
+            "expected": "You usually spend time reading books in the evenings"
+        },
+        {
+            "tell": "I feel most productive when I work in a quiet environment.",
+            "question": "When do I feel most productive?",
+            "expected": "When you work in a quiet environment"
+        },
+        {
+            "tell": "I prefer staying up late over waking up early.",
+            "question": "Do I prefer staying up late or waking up early?",
+            "expected": "Staying up late"
+        },
+        {
+            "tell": "The first thing I do when I wake up is drink a glass of hot water",
+            "question": "What is the first thing I do when I wake up?",
+            "expected": "Drink a glass of hot water"
+        },
+        {
+            "tell": "The subject I enjoyed the most in school was history.",
+            "question": "Which subject did I enjoy the most in school?",
+            "expected": "History"
+        },
+        {
+            "tell": "I like recording videos of beautiful moments",
+            "question": "Do you like recording videos of beautiful moments?",
+            "expected": "Yes, you do"
+        },
+        {
+            "tell": "I love visiting bookstores on the weekends",
+            "question": "What do I love doing on the weekends?",
+            "expected": "Visiting bookstores and buying books"
+        },
+        {
+            "tell": "The season I dislike the most is summer because of the heat",
+            "question": "Which season do I dislike the most and why?",
+            "expected": "Summer because of the heat"
+        },
+        {
+            "tell": "I love rainy days because they make me feel cozy",
+            "question": "Why do I love rainy days?",
+            "expected": "Because they make me feel cozy"
+        },
+        {
+            "tell": "The one food I could eat every day is Pho",
+            "question": "What is the one food I could eat every day?",
+            "expected": "Pho"
+        },
+        {
+            "tell": "The animal i find cutest is cat",
+            "question": "What animal do i find cutest",
+            "expected": "You find cat cutest"
+        },
+        {
+            "tell": "I like 12 Angry Men the most",
+            "question": "What movie do you like best?",
+            "expected": "12 Angry Men is your favorite"
+        },
+        {
+            "tell": "I enjoy painting landscapes in my free time.",
+            "question": "What do I like doing in my free time?",
+            "expected": "You enjoy painting landscapes."
+        },
+        {
+            "tell": "The color I like the most is blue.",
+            "question": "What is my favorite color?",
+            "expected": "Your favorite color is blue."
+        },
+        {
+            "tell": "I usually drink coffee in the afternoon.",
+            "question": "What do I usually drink in the afternoon?",
+            "expected": "You usually drink coffee in the afternoon."
+        },
+        {
+            "tell": "My favorite fruit is mango.",
+            "question": "What is my favorite fruit?",
+            "expected": "Mango is your favorite fruit."
+        },
+        {
+            "tell": "I enjoy hiking on weekends.",
+            "question": "What do I enjoy doing on weekends?",
+            "expected": "You enjoy hiking on weekends."
+        },
+        {
+            "tell": "My favorite singer is Taylor Swift.",
+            "question": "Who is my favorite singer?",
+            "expected": "Your favorite singer is Taylor Swift."
+        },
+        {
+            "tell": "I feel relaxed when listening to classical music.",
+            "question": "When do I feel relaxed?",
+            "expected": "When you're listening to classical music."
+        },
+        {
+            "tell": "The book I\u2019m currently reading is \u201c1984.\u201d",
+            "question": "What book am I reading currently?",
+            "expected": "You\u2019re reading \u201c1984.\u201d"
+        },
+        {
+            "tell": "I love baking cookies in my spare time.",
+            "question": "What do I love doing in my spare time?",
+            "expected": "You love baking cookies."
+        },
+        {
+            "tell": "I usually go to bed at 10 p.m.",
+            "question": "What time do I usually go to bed?",
+            "expected": "You usually go to bed at 10 p.m."
+        },
+        {
+            "tell": "My favorite sport to watch is soccer.",
+            "question": "What is my favorite sport to watch?",
+            "expected": "Your favorite sport to watch is soccer."
+        },
+        {
+            "tell": "I prefer beaches over mountains.",
+            "question": "Do I prefer beaches or mountains?",
+            "expected": "You prefer beaches."
+        },
+        {
+            "tell": "The food I dislike the most is broccoli.",
+            "question": "What food do I dislike the most?",
+            "expected": "You dislike broccoli the most."
+        },
+        {
+            "tell": "I enjoy watching sunsets by the lake.",
+            "question": "What do I enjoy doing by the lake?",
+            "expected": "You enjoy watching sunsets."
+        },
+        {
+            "tell": "My favorite animal is a dolphin.",
+            "question": "What is my favorite animal?",
+            "expected": "Your favorite animal is a dolphin."
+        },
+        {
+            "tell": "I started learning how to play the piano at age 10.",
+            "question": "When did I start learning to play the piano?",
+            "expected": "You started at age 10."
+        },
+        {
+            "tell": "I love spicy food the most.",
+            "question": "What type of food do I love the most?",
+            "expected": "You love spicy food the most."
+        },
+        {
+            "tell": "I usually go jogging in the park every morning.",
+            "question": "What do I do every morning?",
+            "expected": "You go jogging in the park every morning."
+        },
+        {
+            "tell": "My favorite drink is iced lemon tea.",
+            "question": "What is my favorite drink?",
+            "expected": "Iced lemon tea is your favorite drink."
+        },
+        {
+            "tell": "I am allergic to peanuts.",
+            "question": "Do I have any allergies?",
+            "expected": "Yes, you are allergic to peanuts."
+        },
+        {
+            "tell": "I love collecting stamps from different countries.",
+            "question": "What is one of my hobbies?",
+            "expected": "You love collecting stamps from different countries."
+        },
+        {
+            "tell": "My favorite season is autumn.",
+            "question": "What is my favorite season?",
+            "expected": "Your favorite season is autumn."
+        },
+        {
+            "tell": "I enjoy solving crossword puzzles in my free time.",
+            "question": "What do I like doing in my free time?",
+            "expected": "Solving crossword puzzles."
+        },
+        {
+            "tell": "I prefer dogs over cats as pets.",
+            "question": "Do I prefer dogs or cats?",
+            "expected": "You prefer dogs."
+        },
+        {
+            "tell": "I love watching thunderstorms from my window.",
+            "question": "What do I love watching during storms?",
+            "expected": "You love watching thunderstorms from your window."
+        },
+        {
+            "tell": "I enjoy cooking Italian food for my family.",
+            "question": "What kind of food do I enjoy cooking?",
+            "expected": "You enjoy cooking Italian food."
+        },
+        {
+            "tell": "My favorite dessert is chocolate cake.",
+            "question": "What is my favorite dessert?",
+            "expected": "Chocolate cake is your favorite dessert."
+        },
+        {
+            "tell": "I volunteer at an animal shelter every weekend.",
+            "question": "What do I do every weekend?",
+            "expected": "You volunteer at an animal shelter."
+        },
+        {
+            "tell": "I\u2019ve been playing badminton since high school.",
+            "question": "What sport have I been playing since high school?",
+            "expected": "You\u2019ve been playing badminton since high school."
+        },
+        {
+            "tell": "I absolutely dislike eating olives.",
+            "question": "What food do I dislike?",
+            "expected": "You dislike eating olives."
+        },
+        {
+            "tell": "My best vacation was a road trip across Vietnam.",
+            "question": "What was my best vacation?",
+            "expected": "Your best vacation was a road trip across Vietnam."
+        },
+        {
+            "tell": "I enjoy stargazing on clear nights.",
+            "question": "What do I like doing on clear nights?",
+            "expected": "You like stargazing on clear nights."
+        },
+        {
+            "tell": "My favorite actor is Leonardo DiCaprio.",
+            "question": "Who is my favorite actor?",
+            "expected": "Your favorite actor is Leonardo DiCaprio."
+        },
+        {
+            "tell": "I usually write poetry when I feel emotional.",
+            "question": "What do I usually do when I feel emotional?",
+            "expected": "You write poetry when you feel emotional."
+        },
+        {
+            "tell": "I love riding my bicycle along the riverside.",
+            "question": "What do I enjoy doing by the riverside?",
+            "expected": "You enjoy riding your bicycle along the riverside."
+        },
+        {
+            "tell": "My favorite color combination is black and gold.",
+            "question": "What is my favorite color combination?",
+            "expected": "Your favorite color combination is black and gold."
+        },
+        {
+            "tell": "I enjoy writing letters to my friends.",
+            "question": "What do I enjoy doing for my friends?",
+            "expected": "You enjoy writing letters to your friends."
+        },
+        {
+            "tell": "I love eating sushi when I go out to eat.",
+            "question": "What do I love eating at restaurants?",
+            "expected": "You love eating sushi."
+        },
+        {
+            "tell": "My favorite holiday activity is decorating my house.",
+            "question": "What is my favorite holiday activity?",
+            "expected": "Your favorite holiday activity is decorating your house."
+        },
+        {
+            "tell": "I always wake up feeling refreshed after a good night\u2019s sleep.",
+            "question": "How do I feel after a good night\u2019s sleep?",
+            "expected": "You feel refreshed."
+        },
+        {
+            "tell": "I love playing card games with my cousins.",
+            "question": "What do I enjoy doing with my cousins?",
+            "expected": "You enjoy playing card games."
+        },
+        {
+            "tell": "My favorite vegetable is carrots.",
+            "question": "What is my favorite vegetable?",
+            "expected": "Your favorite vegetable is carrots."
+        },
+        {
+            "tell": "I find roller coasters exciting.",
+            "question": "What do I think about roller coasters?",
+            "expected": "You find them exciting."
+        },
+        {
+            "tell": "My childhood hero was Spiderman.",
+            "question": "Who was my childhood hero?",
+            "expected": "Your childhood hero was Spiderman."
+        },
+        {
+            "tell": "My favorite board game is chess.",
+            "question": "What is my favorite board game?",
+            "expected": "Your favorite board game is chess."
+        },
+        {
+            "tell": "I always start my mornings with meditation.",
+            "question": "How do I start my mornings?",
+            "expected": "You start your mornings with meditation."
+        },
+        {
+            "tell": "I like visiting historical sites when I travel.",
+            "question": "What do I like doing when I travel?",
+            "expected": "You like visiting historical sites."
+        },
+        {
+            "tell": "I\u2019ve been a vegetarian for five years.",
+            "question": "How long have I been a vegetarian?",
+            "expected": "You\u2019ve been a vegetarian for five years."
+        },
+        {
+            "tell": "My favorite type of music is rock.",
+            "question": "What is my favorite type of music?",
+            "expected": "Your favorite type of music is rock."
+        },
+        {
+            "tell": "My favorite game as a child was hide-and-seek.",
+            "question": "What was my favorite game as a child?",
+            "expected": "Your favorite game as a child was hide-and-seek."
+        },
+        {
+            "tell": "I love watching the sunrise at the beach.",
+            "question": "What do I enjoy watching at the beach?",
+            "expected": "You enjoy watching the sunrise."
+        },
+        {
+            "tell": "I once painted a mural for my school.",
+            "question": "What creative project did I do for my school?",
+            "expected": "You painted a mural."
+        },
+        {
+            "tell": "I feel most relaxed when I\u2019m gardening.",
+            "question": "When do I feel most relaxed?",
+            "expected": "When you\u2019re gardening."
+        },
+        {
+            "tell": "My favorite animal in the wild is the elephant.",
+            "question": "What is my favorite wild animal?",
+            "expected": "Your favorite wild animal is the elephant."
+        },
+        {
+            "tell": "My favorite hobby as a teenager was skateboarding.",
+            "question": "What was my favorite hobby as a teenager?",
+            "expected": "Skateboarding was your favorite hobby."
+        },
+        {
+            "tell": "I enjoy taking long walks in the forest.",
+            "question": "What do I enjoy doing in the forest?",
+            "expected": "You enjoy taking long walks."
+        },
+        {
+            "tell": "I always listen to music while cooking.",
+            "question": "What do I do while cooking?",
+            "expected": "You listen to music."
+        },
+        {
+            "tell": "I enjoy attending art exhibitions in my free time.",
+            "question": "What do I like attending in my free time?",
+            "expected": "You like attending art exhibitions."
+        },
+        {
+            "tell": "My favorite car brand is Tesla.",
+            "question": "What is my favorite car brand?",
+            "expected": "Your favorite car brand is Tesla."
+        },
+        {
+            "tell": "I enjoy learning about ancient civilizations.",
+            "question": "What do I enjoy learning about?",
+            "expected": "You enjoy learning about ancient civilizations."
+        },
+        {
+            "tell": "My favorite fruit juice is orange juice.",
+            "question": "What is my favorite fruit juice?",
+            "expected": "Your favorite fruit juice is orange juice."
+        },
+        {
+            "tell": "I\u2019m interested in astronomy and star charts.",
+            "question": "What is one of my interests?",
+            "expected": "You\u2019re interested in astronomy and star charts."
+        },
+        {
+            "tell": "I enjoy kayaking when I visit lakes.",
+            "question": "What activity do I enjoy doing on lakes?",
+            "expected": "You enjoy kayaking."
+        },
+        {
+            "tell": "My favorite childhood snack was banana chips.",
+            "question": "What was my favorite childhood snack?",
+            "expected": "Your favorite snack as a child was banana chips."
+        },
+        {
+            "tell": "I love reading biographies of famous inventors.",
+            "question": "What kind of books do I enjoy reading?",
+            "expected": "You enjoy reading biographies of famous inventors."
+        },
+        {
+            "tell": "My favorite place to relax is a hammock in my backyard.",
+            "question": "Where do I like to relax the most?",
+            "expected": "In a hammock in your backyard."
+        },
+        {
+            "tell": "I\u2019ve been learning salsa dancing for three months.",
+            "question": "What new skill have I been learning recently?",
+            "expected": "You\u2019ve been learning salsa dancing."
+        },
+        {
+            "tell": "I love decorating cakes for special occasions.",
+            "question": "What do I love doing for special occasions?",
+            "expected": "You love decorating cakes."
+        },
+        {
+            "tell": "I enjoy fixing old furniture and giving it new life.",
+            "question": "What is a hands-on project I enjoy doing?",
+            "expected": "You enjoy fixing old furniture."
+        },
+        {
+            "tell": "My favorite cartoon character is Mickey Mouse.",
+            "question": "Who is my favorite cartoon character?",
+            "expected": "Your favorite cartoon character is Mickey Mouse."
+        },
+        {
+            "tell": "I love eating ice cream even in the winter.",
+            "question": "What is something I love eating in winter?",
+            "expected": "You love eating ice cream even in the winter."
+        },
+        {
+            "tell": "My favorite outdoor game is frisbee.",
+            "question": "What is my favorite outdoor game?",
+            "expected": "Your favorite outdoor game is frisbee."
+        },
+        {
+            "tell": "I enjoy reading detective novels on rainy days.",
+            "question": "What type of books do I enjoy on rainy days?",
+            "expected": "You enjoy reading detective novels."
+        },
+        {
+            "tell": "My favorite festival is the Mid-Autumn Festival.",
+            "question": "What is my favorite festival?",
+            "expected": "Your favorite festival is the Mid-Autumn Festival."
+        },
+        {
+            "tell": "I like taking naps under the shade of a big tree.",
+            "question": "What do I like doing under a tree?",
+            "expected": "You like taking naps under the shade of a big tree."
+        },
+        {
+            "tell": "I love spicy noodles more than regular noodles.",
+            "question": "Do I prefer spicy or regular noodles?",
+            "expected": "You prefer spicy noodles."
+        },
+        {
+            "tell": "I feel motivated when I listen to motivational speeches.",
+            "question": "What makes me feel motivated?",
+            "expected": "Listening to motivational speeches makes you feel motivated."
+        },
+        {
+            "tell": "My favorite mode of transportation is cycling.",
+            "question": "What is my favorite mode of transportation?",
+            "expected": "Your favorite mode of transportation is cycling."
+        },
+        {
+            "tell": "I enjoy visiting botanical gardens during spring.",
+            "question": "Where do I enjoy visiting in spring?",
+            "expected": "You enjoy visiting botanical gardens."
+        },
+        {
+            "tell": "I always carry a sketchbook when I travel.",
+            "question": "What do I always carry when traveling?",
+            "expected": "You always carry a sketchbook."
+        },
+        {
+            "tell": "I love the smell of freshly baked bread.",
+            "question": "What smell do I love the most?",
+            "expected": "You love the smell of freshly baked bread."
+        },
+        {
+            "tell": "I prefer drinking smoothies over milkshakes.",
+            "question": "Do I prefer smoothies or milkshakes?",
+            "expected": "You prefer smoothies."
+        },
+        {
+            "tell": "I enjoy watching musicals in theaters.",
+            "question": "What type of performances do I enjoy watching?",
+            "expected": "You enjoy watching musicals in theaters."
+        },
+        {
+            "tell": "I always enjoy walking barefoot on sandy beaches.",
+            "question": "What do I enjoy doing at the beach?",
+            "expected": "Walking barefoot on sandy beaches."
+        },
+        {
+            "tell": "My favorite book series is \u201cThe Lord of the Rings.\u201d",
+            "question": "What is my favorite book series?",
+            "expected": "Your favorite book series is \u201cThe Lord of the Rings.\u201d"
+        },
+        {
+            "tell": "I love experimenting with new recipes in the kitchen.",
+            "question": "What do I love doing in the kitchen?",
+            "expected": "You love experimenting with new recipes."
+        },
+        {
+            "tell": "My favorite tree is the cherry blossom.",
+            "question": "What is my favorite type of tree?",
+            "expected": "Your favorite tree is the cherry blossom."
+        },
+        {
+            "tell": "I enjoy listening to live acoustic performances.",
+            "question": "What kind of music performances do I enjoy?",
+            "expected": "You enjoy live acoustic performances."
+        },
+        {
+            "tell": "My favorite time of the year is spring.",
+            "question": "What is my favorite time of the year?",
+            "expected": "Your favorite time of the year is spring."
+        },
+        {
+            "tell": "I like adding lemon to my tea for extra flavor.",
+            "question": "What do I like adding to my tea?",
+            "expected": "You like adding lemon to your tea."
+        },
+        {
+            "tell": "My favorite way to relax is by reading near a fireplace.",
+            "question": "What is my favorite way to relax?",
+            "expected": "Reading near a fireplace is your favorite way to relax."
+        },
+        {
+            "tell": "I enjoy solving jigsaw puzzles with my family.",
+            "question": "What activity do I enjoy doing with my family?",
+            "expected": "You enjoy solving jigsaw puzzles with your family."
+        },
+        {
+            "tell": "I love watching documentaries about wildlife.",
+            "question": "What type of documentaries do I enjoy watching?",
+            "expected": "You enjoy watching wildlife documentaries."
+        },
+        {
+            "tell": "My favorite fast food is burgers.",
+            "question": "What is my favorite fast food?",
+            "expected": "Your favorite fast food is burgers."
+        },
+        {
+            "tell": "I enjoy practicing mindfulness meditation daily.",
+            "question": "What do I practice daily for relaxation?",
+            "expected": "You practice mindfulness meditation."
+        },
+        {
+            "tell": "I once spent a whole day birdwatching in the forest.",
+            "question": "What outdoor activity have I spent a full day doing?",
+            "expected": "You spent a day birdwatching in the forest."
+        },
+        {
+            "tell": "My favorite city landmark is the Eiffel Tower.",
+            "question": "What is my favorite city landmark?",
+            "expected": "Your favorite city landmark is the Eiffel Tower."
+        },
+        {
+            "tell": "I like wearing bright colors in summer.",
+            "question": "What type of colors do I like wearing in summer?",
+            "expected": "You like wearing bright colors."
+        },
+        {
+            "tell": "I always keep a lucky coin in my wallet.",
+            "question": "What do I always carry for good luck?",
+            "expected": "You always carry a lucky coin in your wallet."
+        },
+        {
+            "tell": "I enjoy learning about marine life.",
+            "question": "What do I enjoy studying?",
+            "expected": "You enjoy studying marine life."
+        },
+        {
+            "tell": "My favorite breakfast food is pancakes with syrup.",
+            "question": "What is my favorite breakfast food?",
+            "expected": "Your favorite breakfast food is pancakes with syrup."
+        },
+        {
+            "tell": "I love attending cultural festivals in different countries.",
+            "question": "What do I enjoy doing while traveling?",
+            "expected": "You enjoy attending cultural festivals."
+        },
+        {
+            "tell": "My favorite dessert is mango sticky rice.",
+            "question": "What is my favorite dessert?",
+            "expected": "Your favorite dessert is mango sticky rice."
+        },
+        {
+            "tell": "I prefer working in small, cozy cafes.",
+            "question": "Where do I prefer to work outside of home?",
+            "expected": "You prefer working in small, cozy cafes."
+        },
+        {
+            "tell": "I love the sound of waves crashing on the shore.",
+            "question": "What sound do I find relaxing?",
+            "expected": "You find the sound of waves relaxing."
+        },
+        {
+            "tell": "My favorite childhood book was \u201cThe Little Prince.\u201d",
+            "question": "What was my favorite childhood book?",
+            "expected": "Your favorite childhood book was \u201cThe Little Prince.\u201d"
+        },
+        {
+            "tell": "I enjoy learning about the history of ancient Egypt.",
+            "question": "What historical topic interests me the most?",
+            "expected": "You enjoy learning about ancient Egypt."
+        },
+        {
+            "tell": "I love eating street food when I visit new places.",
+            "question": "What do I enjoy doing while exploring new places?",
+            "expected": "You enjoy eating street food."
+        },
+        {
+            "tell": "My favorite pie is apple pie with cinnamon.",
+            "question": "What type of pie do I like the most?",
+            "expected": "Your favorite pie is apple pie with cinnamon."
+        },
+        {
+            "tell": "I enjoy jogging by the lake during sunset.",
+            "question": "When do I like jogging by the lake?",
+            "expected": "You like jogging by the lake during sunset."
+        },
+        {
+            "tell": "My favorite board game to play with friends is Monopoly.",
+            "question": "What is my favorite board game to play with friends?",
+            "expected": "Your favorite board game is Monopoly."
+        },
+        {
+            "tell": "I enjoy solving Sudoku puzzles in my free time.",
+            "question": "What puzzles do I like solving?",
+            "expected": "You like solving Sudoku puzzles."
+        },
+        {
+            "tell": "My favorite sandwich filling is grilled cheese.",
+            "question": "What is my favorite sandwich filling?",
+            "expected": "Your favorite sandwich filling is grilled cheese."
+        },
+        {
+            "tell": "I love attending open-air concerts in the summer.",
+            "question": "What type of events do I enjoy in summer?",
+            "expected": "You enjoy open-air concerts."
+        },
+        {
+            "tell": "I enjoy collecting postcards from every place I visit.",
+            "question": "What do I collect when I travel?",
+            "expected": "You collect postcards."
+        },
+        {
+            "tell": "I always eat popcorn when I watch movies.",
+            "question": "What snack do I always eat during movies?",
+            "expected": "You always eat popcorn."
+        },
+        {
+            "tell": "I love walking through sunflower fields.",
+            "question": "What do I enjoy doing in sunflower fields?",
+            "expected": "You enjoy walking through sunflower fields."
+        },
+        {
+            "tell": "My favorite place to read is by a riverside.",
+            "question": "Where do I like to read the most?",
+            "expected": "Your favorite place to read is by a riverside."
+        },
+        {
+            "tell": "I enjoy writing short poems during my travels.",
+            "question": "What do I write during my travels?",
+            "expected": "You write short poems."
+        },
+        {
+            "tell": "I love decorating my room with fairy lights.",
+            "question": "How do I like decorating my room?",
+            "expected": "You like decorating your room with fairy lights."
+        },
+        {
+            "tell": "My favorite childhood memory is flying a kite.",
+            "question": "What is my favorite childhood memory?",
+            "expected": "Flying a kite is your favorite childhood memory."
+        },
+        {
+            "tell": "I enjoy exploring caves with my friends.",
+            "question": "What adventurous activity do I enjoy?",
+            "expected": "You enjoy exploring caves with your friends."
+        },
+        {
+            "tell": "My favorite spice to use in cooking is cinnamon.",
+            "question": "What is my favorite spice?",
+            "expected": "Your favorite spice is cinnamon."
+        },
+        {
+            "tell": "I enjoy drinking coconut water on hot days.",
+            "question": "What do I enjoy drinking on hot days?",
+            "expected": "You enjoy drinking coconut water."
+        },
+        {
+            "tell": "I feel most creative when I listen to instrumental music.",
+            "question": "When do I feel most creative?",
+            "expected": "When you listen to instrumental music."
+        },
+        {
+            "tell": "My favorite video game is \u201cThe Legend of Zelda.\u201d",
+            "question": "What is my favorite video game?",
+            "expected": "Your favorite video game is \u201cThe Legend of Zelda.\u201d"
+        },
+        {
+            "tell": "I like organizing my books by color on the shelf.",
+            "question": "How do I organize my books?",
+            "expected": "You organize your books by color."
+        },
+        {
+            "tell": "I enjoy building sandcastles when I visit the beach.",
+            "question": "What do I enjoy doing at the beach?",
+            "expected": "You enjoy building sandcastles."
+        },
+        {
+            "tell": "My favorite drink at a caf\u00e9 is iced mocha.",
+            "question": "What is my favorite caf\u00e9 drink?",
+            "expected": "Your favorite caf\u00e9 drink is iced mocha."
+        },
+        {
+            "tell": "I feel inspired by people who help others selflessly.",
+            "question": "Who inspires me the most?",
+            "expected": "People who help others selflessly inspire you."
+        },
+        {
+            "tell": "I love climbing hills to watch the sunrise.",
+            "question": "What do I enjoy doing on hills?",
+            "expected": "You enjoy climbing hills to watch the sunrise."
+        },
+        {
+            "tell": "My favorite flower to grow in my garden is lavender.",
+            "question": "What flower do I like growing the most?",
+            "expected": "You like growing lavender."
+        },
+        {
+            "tell": "I enjoy going to food festivals to try new dishes.",
+            "question": "What type of festivals do I enjoy attending?",
+            "expected": "You enjoy food festivals."
+        },
+        {
+            "tell": "I like wearing hats when I go out in the sun.",
+            "question": "What do I like wearing in the sun?",
+            "expected": "You like wearing hats."
+        },
+        {
+            "tell": "My favorite way to exercise is by doing yoga.",
+            "question": "What is my favorite way to exercise?",
+            "expected": "Your favorite way to exercise is yoga."
+        },
+        {
+            "tell": "I enjoy watching fireflies in the countryside at night.",
+            "question": "What do I enjoy doing in the countryside at night?",
+            "expected": "You enjoy watching fireflies."
+        },
+        {
+            "tell": "My favorite flavor of ice cream is mint chocolate chip.",
+            "question": "What is my favorite ice cream flavor?",
+            "expected": "Your favorite ice cream flavor is mint chocolate chip."
+        },
+        {
+            "tell": "I love solving logic puzzles with my siblings.",
+            "question": "What activity do I enjoy doing with my siblings?",
+            "expected": "You enjoy solving logic puzzles."
+        },
+        {
+            "tell": "I love watching airplanes take off at the airport.",
+            "question": "What do I enjoy watching at the airport?",
+            "expected": "You enjoy watching airplanes take off."
+        },
+        {
+            "tell": "My favorite soup is tomato basil soup.",
+            "question": "What is my favorite soup?",
+            "expected": "Your favorite soup is tomato basil soup."
+        },
+        {
+            "tell": "My favorite flower arrangement is tulips and roses.",
+            "question": "What is my favorite type of flower arrangement?",
+            "expected": "Tulips and roses are your favorite arrangement."
+        },
+        {
+            "tell": "I enjoy reading science magazines in my spare time.",
+            "question": "What do I like reading in my spare time?",
+            "expected": "You like reading science magazines."
+        },
+        {
+            "tell": "My favorite time to visit the beach is early morning.",
+            "question": "When do I like visiting the beach?",
+            "expected": "You like visiting the beach in the early morning."
+        },
+        {
+            "tell": "I love experimenting with herbal teas.",
+            "question": "What do I enjoy experimenting with?",
+            "expected": "You enjoy experimenting with herbal teas."
+        },
+        {
+            "tell": "My favorite mythological figure is Athena.",
+            "question": "Who is my favorite mythological figure?",
+            "expected": "Your favorite mythological figure is Athena."
+        },
+        {
+            "tell": "I love collecting antique clocks.",
+            "question": "What unique items do I collect?",
+            "expected": "You collect antique clocks."
+        },
+        {
+            "tell": "I enjoy kayaking in calm rivers.",
+            "question": "Where do I enjoy kayaking?",
+            "expected": "You enjoy kayaking in calm rivers."
+        },
+        {
+            "tell": "My favorite type of chocolate is dark chocolate.",
+            "question": "What is my favorite type of chocolate?",
+            "expected": "Your favorite type of chocolate is dark chocolate."
+        },
+        {
+            "tell": "I enjoy playing strategy board games.",
+            "question": "What type of board games do I like playing?",
+            "expected": "You like playing strategy board games."
+        },
+        {
+            "tell": "I feel most at peace when I listen to ocean sounds.",
+            "question": "When do I feel most at peace?",
+            "expected": "When you listen to ocean sounds."
+        },
+        {
+            "tell": "My favorite animal to see in the zoo is a panda.",
+            "question": "What is my favorite zoo animal?",
+            "expected": "Your favorite zoo animal is a panda."
+        },
+        {
+            "tell": "I love using scented candles to relax at home.",
+            "question": "What do I use to relax at home?",
+            "expected": "You use scented candles."
+        },
+        {
+            "tell": "I enjoy hiking to waterfalls.",
+            "question": "What do I enjoy doing in nature?",
+            "expected": "You enjoy hiking to waterfalls."
+        },
+        {
+            "tell": "My favorite pizza topping is mushrooms.",
+            "question": "What is my favorite pizza topping?",
+            "expected": "Your favorite pizza topping is mushrooms."
+        },
+        {
+            "tell": "I like visiting aquariums to see jellyfish.",
+            "question": "What do I like seeing at aquariums?",
+            "expected": "You like seeing jellyfish."
+        },
+        {
+            "tell": "My favorite snack during movie nights is nachos.",
+            "question": "What do I enjoy eating during movie nights?",
+            "expected": "You enjoy eating nachos."
+        },
+        {
+            "tell": "I love planting sunflowers in my backyard every spring.",
+            "question": "What do I enjoy planting in spring?",
+            "expected": "You enjoy planting sunflowers."
+        },
+        {
+            "tell": "I feel happy when I hear children laughing.",
+            "question": "What sound makes me feel happy?",
+            "expected": "The sound of children laughing makes you feel happy."
+        },
+        {
+            "tell": "I once learned how to make origami animals.",
+            "question": "What creative skill have I learned?",
+            "expected": "You learned how to make origami animals."
+        },
+        {
+            "tell": "My favorite season to take photographs is autumn.",
+            "question": "What is my favorite season for photography?",
+            "expected": "Your favorite season for photography is autumn."
+        },
+        {
+            "tell": "I enjoy writing motivational quotes in my journal.",
+            "question": "What do I write in my journal?",
+            "expected": "You write motivational quotes."
+        },
+        {
+            "tell": "I love visiting old castles during my travels.",
+            "question": "What historical places do I enjoy visiting?",
+            "expected": "You enjoy visiting old castles."
+        },
+        {
+            "tell": "I enjoy listening to rain sounds when I fall asleep.",
+            "question": "What do I like listening to when I sleep?",
+            "expected": "You like listening to rain sounds."
+        },
+        {
+            "tell": "My favorite type of cheese is mozzarella.",
+            "question": "What is my favorite type of cheese?",
+            "expected": "Your favorite type of cheese is mozzarella."
+        },
+        {
+            "tell": "I enjoy painting landscapes with watercolor.",
+            "question": "What type of art do I like creating?",
+            "expected": "You like creating watercolor landscapes."
+        },
+        {
+            "tell": "My favorite snack for road trips is trail mix.",
+            "question": "What is my favorite road trip snack?",
+            "expected": "Your favorite road trip snack is trail mix."
+        },
+        {
+            "tell": "I always wear a hat when I go hiking.",
+            "question": "What do I always wear when hiking?",
+            "expected": "You always wear a hat."
+        },
+        {
+            "tell": "I love watching firework displays during festivals.",
+            "question": "What do I enjoy watching during festivals?",
+            "expected": "You enjoy watching firework displays."
+        },
+        {
+            "tell": "I enjoy playing trivia games with my friends.",
+            "question": "What type of games do I enjoy playing with friends?",
+            "expected": "You enjoy playing trivia games."
+        },
+        {
+            "tell": "I like making fresh lemonade on hot summer days.",
+            "question": "What do I enjoy making on hot summer days?",
+            "expected": "You enjoy making fresh lemonade."
+        },
+        {
+            "tell": "My favorite breakfast is scrambled eggs with toast.",
+            "question": "What is my favorite breakfast?",
+            "expected": "Your favorite breakfast is scrambled eggs with toast."
+        },
+        {
+            "tell": "I love walking along the beach during sunset.",
+            "question": "When do I like walking on the beach?",
+            "expected": "During sunset."
+        },
+        {
+            "tell": "My favorite mythical creature is a dragon.",
+            "question": "What is my favorite mythical creature?",
+            "expected": "Your favorite mythical creature is a dragon."
+        },
+        {
+            "tell": "I enjoy sketching cityscapes in my free time.",
+            "question": "What do I enjoy sketching?",
+            "expected": "You enjoy sketching cityscapes."
+        },
+        {
+            "tell": "My favorite flavor of cake is red velvet.",
+            "question": "What is my favorite flavor of cake?",
+            "expected": "Your favorite cake flavor is red velvet."
+        },
+        {
+            "tell": "I always bring a reusable water bottle with me.",
+            "question": "What do I always carry with me?",
+            "expected": "You always carry a reusable water bottle."
+        },
+        {
+            "tell": "My favorite constellation is Orion.",
+            "question": "What is my favorite constellation?",
+            "expected": "Your favorite constellation is Orion."
+        },
+        {
+            "tell": "I love watching sports tournaments live.",
+            "question": "What type of events do I enjoy watching live?",
+            "expected": "You enjoy watching sports tournaments live."
+        },
+        {
+            "tell": "My favorite fruit to eat in the summer is watermelon.",
+            "question": "What is my favorite summer fruit?",
+            "expected": "Your favorite summer fruit is watermelon."
+        },
+        {
+            "tell": "I enjoy learning about ancient Greek mythology.",
+            "question": "What historical subject do I enjoy learning about?",
+            "expected": "Ancient Greek mythology."
+        },
+        {
+            "tell": "I love watching ballet performances at theaters.",
+            "question": "What kind of performances do I love watching?",
+            "expected": "Ballet performances."
+        },
+        {
+            "tell": "My favorite subject in high school was biology.",
+            "question": "What was my favorite subject in high school?",
+            "expected": "Your favorite subject was biology."
+        },
+        {
+            "tell": "I like spending rainy afternoons reading novels.",
+            "question": "What do I like doing on rainy afternoons?",
+            "expected": "You like reading novels."
+        },
+        {
+            "tell": "My favorite time to visit the mountains is in autumn.",
+            "question": "When do I enjoy visiting the mountains?",
+            "expected": "In autumn."
+        },
+        {
+            "tell": "I love listening to birds chirping in the morning.",
+            "question": "What sound do I enjoy in the morning?",
+            "expected": "Birds chirping."
+        },
+        {
+            "tell": "My favorite pastry is croissant.",
+            "question": "What is my favorite pastry?",
+            "expected": "Your favorite pastry is croissant."
+        },
+        {
+            "tell": "I enjoy going to vintage markets to find unique items.",
+            "question": "Where do I like shopping for unique items?",
+            "expected": "Vintage markets."
+        },
+        {
+            "tell": "My favorite hot drink is chai tea.",
+            "question": "What is my favorite hot drink?",
+            "expected": "Your favorite hot drink is chai tea."
+        },
+        {
+            "tell": "I love learning phrases in different languages.",
+            "question": "What do I enjoy learning about languages?",
+            "expected": "You enjoy learning phrases in different languages."
+        },
+        {
+            "tell": "My favorite type of weather is a cool, breezy day.",
+            "question": "What is my favorite type of weather?",
+            "expected": "Your favorite weather is a cool, breezy day."
+        },
+        {
+            "tell": "I enjoy building LEGO models in my free time.",
+            "question": "What do I like building in my free time?",
+            "expected": "You like building LEGO models."
+        },
+        {
+            "tell": "My favorite comic book series is \u201cCalvin and Hobbes.\u201d",
+            "question": "What is my favorite comic book series?",
+            "expected": "Your favorite comic book series is \u201cCalvin and Hobbes.\u201d"
+        },
+        {
+            "tell": "I always pack a journal when I go traveling.",
+            "question": "What do I always pack when I travel?",
+            "expected": "You always pack a journal."
+        },
+        {
+            "tell": "My favorite sport to watch is tennis.",
+            "question": "What sport do I enjoy watching the most?",
+            "expected": "You enjoy watching tennis the most."
+        },
+        {
+            "tell": "I enjoy taking nature photography during my hikes.",
+            "question": "What do I enjoy doing during hikes?",
+            "expected": "You enjoy taking nature photography."
+        },
+        {
+            "tell": "My favorite fruit to eat in the winter is oranges.",
+            "question": "What is my favorite winter fruit?",
+            "expected": "Your favorite winter fruit is oranges."
+        },
+        {
+            "tell": "I like reading fantasy novels before bed.",
+            "question": "What do I like reading before bed?",
+            "expected": "You like reading fantasy novels."
+        },
+        {
+            "tell": "My favorite holiday destination is the Maldives.",
+            "question": "What is my favorite holiday destination?",
+            "expected": "Your favorite holiday destination is the Maldives."
+        },
+        {
+            "tell": "My favorite instrument to listen to is the violin.",
+            "question": "What instrument do I enjoy listening to the most?",
+            "expected": "Your favorite instrument to listen to is the violin."
+        },
+        {
+            "tell": "I enjoy going to food markets to try new dishes.",
+            "question": "Where do I go to explore new dishes?",
+            "expected": "You go to food markets."
+        },
+        {
+            "tell": "I love watching lightning storms from my balcony.",
+            "question": "What do I enjoy watching during storms?",
+            "expected": "You enjoy watching lightning storms."
+        },
+        {
+            "tell": "My favorite way to exercise is swimming.",
+            "question": "What is my favorite form of exercise?",
+            "expected": "Your favorite form of exercise is swimming."
+        },
+        {
+            "tell": "I enjoy writing fictional stories for fun.",
+            "question": "What type of stories do I enjoy writing?",
+            "expected": "You enjoy writing fictional stories."
+        },
+        {
+            "tell": "My favorite childhood toy was a train set.",
+            "question": "What was my favorite toy as a child?",
+            "expected": "Your favorite childhood toy was a train set."
+        },
+        {
+            "tell": "I like visiting old libraries to feel the history.",
+            "question": "Where do I enjoy going to feel connected to history?",
+            "expected": "You enjoy visiting old libraries."
+        },
+        {
+            "tell": "My favorite dessert is tiramisu.",
+            "question": "What is my favorite dessert?",
+            "expected": "Your favorite dessert is tiramisu."
+        },
+        {
+            "tell": "I enjoy playing the piano when I\u2019m feeling stressed.",
+            "question": "What do I do when I\u2019m feeling stressed?",
+            "expected": "You play the piano."
+        },
+        {
+            "tell": "My favorite way to relax is taking a long bath.",
+            "question": "How do I like to relax?",
+            "expected": "You like taking a long bath."
+        },
+        {
+            "tell": "I always light scented candles when I read at night.",
+            "question": "What do I do while reading at night?",
+            "expected": "You light scented candles."
+        },
+        {
+            "tell": "My favorite way to spend Sundays is baking cookies.",
+            "question": "How do I like to spend Sundays?",
+            "expected": "You like spending Sundays baking cookies."
+        },
+        {
+            "tell": "My favorite drink to have at night is hot chocolate.",
+            "question": "What is my favorite nighttime drink?",
+            "expected": "Your favorite nighttime drink is hot chocolate."
+        },
+        {
+            "tell": "I love visiting amusement parks for the roller coasters.",
+            "question": "Why do I love visiting amusement parks?",
+            "expected": "Because of the roller coasters."
+        },
+        {
+            "tell": "My favorite way to spend a rainy evening is watching movies.",
+            "question": "How do I spend rainy evenings?",
+            "expected": "You spend them watching movies."
+        },
+        {
+            "tell": "My favorite type of tea is green tea with jasmine.",
+            "question": "What is my favorite type of tea?",
+            "expected": "Your favorite tea is green tea with jasmine."
+        },
+        {
+            "tell": "I enjoy listening to live piano performances.",
+            "question": "What type of live music do I enjoy?",
+            "expected": "You enjoy live piano performances."
+        },
+        {
+            "tell": "My favorite fruit to add to smoothies is strawberries.",
+            "question": "What is my favorite fruit for smoothies?",
+            "expected": "Your favorite fruit for smoothies is strawberries."
+        },
+        {
+            "tell": "I love camping by a lake during summer vacations.",
+            "question": "Where do I like camping during summer?",
+            "expected": "By a lake."
+        },
+        {
+            "tell": "I always carry a sketchpad when I visit new places.",
+            "question": "What do I carry with me when traveling?",
+            "expected": "A sketchpad."
+        },
+        {
+            "tell": "I enjoy practicing yoga outdoors in the mornings.",
+            "question": "When and where do I like practicing yoga?",
+            "expected": "Outdoors in the mornings."
+        },
+        {
+            "tell": "My favorite room in the house is the kitchen.",
+            "question": "What is my favorite room in the house?",
+            "expected": "Your favorite room is the kitchen."
+        },
+        {
+            "tell": "I love eating grilled corn during outdoor barbecues.",
+            "question": "What is my favorite food at barbecues?",
+            "expected": "Grilled corn."
+        },
+        {
+            "tell": "I feel happiest when I\u2019m surrounded by nature.",
+            "question": "When do I feel the happiest?",
+            "expected": "When you're surrounded by nature."
+        },
+        {
+            "tell": "I once joined a hiking group to explore new trails.",
+            "question": "What group activity have I participated in?",
+            "expected": "You joined a hiking group to explore new trails."
+        },
+        {
+            "tell": "My favorite painting medium is oil paints.",
+            "question": "What is my favorite painting medium?",
+            "expected": "Your favorite painting medium is oil paints."
+        },
+        {
+            "tell": "I like keeping fresh flowers on my desk.",
+            "question": "What do I like keeping on my desk?",
+            "expected": "Fresh flowers."
+        },
+        {
+            "tell": "My favorite fruit to eat in autumn is persimmons.",
+            "question": "What is my favorite autumn fruit?",
+            "expected": "Your favorite autumn fruit is persimmons."
+        },
+        {
+            "tell": "I enjoy writing handwritten letters to my friends.",
+            "question": "How do I communicate with my friends creatively?",
+            "expected": "By writing handwritten letters."
+        },
+        {
+            "tell": "My favorite childhood activity was building sandcastles.",
+            "question": "What was my favorite activity as a child?",
+            "expected": "Building sandcastles."
+        },
+        {
+            "tell": "I love drinking coconut water after workouts.",
+            "question": "What do I drink after workouts?",
+            "expected": "Coconut water."
+        },
+        {
+            "tell": "My favorite type of tree is a willow tree.",
+            "question": "What is my favorite type of tree?",
+            "expected": "Your favorite type of tree is a willow tree."
+        },
+        {
+            "tell": "I enjoy journaling about my daily experiences.",
+            "question": "What do I enjoy doing to reflect on my day?",
+            "expected": "You enjoy journaling about your daily experiences."
+        },
+        {
+            "tell": "My favorite snack while studying is trail mix.",
+            "question": "What do I like to snack on while studying?",
+            "expected": "Trail mix."
+        },
+        {
+            "tell": "I love exploring small, cozy bookstores in new cities.",
+            "question": "What do I enjoy exploring in new cities?",
+            "expected": "Small, cozy bookstores."
+        },
+        {
+            "tell": "My favorite flower to receive as a gift is orchids.",
+            "question": "What is my favorite flower to receive as a gift?",
+            "expected": "Orchids."
+        },
+        {
+            "tell": "I love exploring local markets when I travel.",
+            "question": "What do I enjoy doing when I travel?",
+            "expected": "You enjoy exploring local markets."
+        },
+        {
+            "tell": "My favorite type of cookies is oatmeal raisin.",
+            "question": "What is my favorite type of cookies?",
+            "expected": "Your favorite type of cookies is oatmeal raisin."
+        },
+        {
+            "tell": "I enjoy watching comedy shows to relax.",
+            "question": "What type of shows do I watch to relax?",
+            "expected": "You watch comedy shows to relax."
+        },
+        {
+            "tell": "My favorite holiday tradition is decorating a Christmas tree.",
+            "question": "What is my favorite holiday tradition?",
+            "expected": "Decorating a Christmas tree."
+        },
+        {
+            "tell": "I love playing chess with my grandfather.",
+            "question": "Who do I enjoy playing chess with?",
+            "expected": "You enjoy playing chess with your grandfather."
+        },
+        {
+            "tell": "My favorite type of fish to eat is salmon.",
+            "question": "What is my favorite type of fish to eat?",
+            "expected": "Your favorite type of fish is salmon."
+        },
+        {
+            "tell": "I enjoy walking barefoot on soft grass in the park.",
+            "question": "What do I enjoy doing in the park?",
+            "expected": "You enjoy walking barefoot on soft grass."
+        },
+        {
+            "tell": "My favorite way to celebrate my birthday is with a picnic.",
+            "question": "How do I like to celebrate my birthday?",
+            "expected": "You like celebrating with a picnic."
+        },
+        {
+            "tell": "My favorite board game as a kid was Snakes and Ladders.",
+            "question": "What was my favorite board game as a child?",
+            "expected": "Your favorite board game was Snakes and Ladders."
+        },
+        {
+            "tell": "I love using lavender-scented soap.",
+            "question": "What type of soap do I prefer using?",
+            "expected": "Lavender-scented soap."
+        },
+        {
+            "tell": "My favorite time to visit the countryside is in spring.",
+            "question": "When do I like visiting the countryside?",
+            "expected": "In spring."
+        },
+        {
+            "tell": "I enjoy attending workshops on DIY crafts.",
+            "question": "What type of workshops do I enjoy?",
+            "expected": "You enjoy DIY craft workshops."
+        },
+        {
+            "tell": "My favorite fruit to eat on a hot day is pineapple.",
+            "question": "What is my favorite fruit for hot days?",
+            "expected": "Pineapple."
+        },
+        {
+            "tell": "I enjoy cycling through quiet villages.",
+            "question": "What do I enjoy doing in villages?",
+            "expected": "You enjoy cycling through quiet villages."
+        },
+        {
+            "tell": "My favorite part of the day is the golden hour before sunset.",
+            "question": "What is my favorite time of the day?",
+            "expected": "The golden hour before sunset."
+        },
+        {
+            "tell": "I like decorating cakes with colorful frosting.",
+            "question": "How do I like decorating cakes?",
+            "expected": "With colorful frosting."
+        },
+        {
+            "tell": "I love visiting aquariums to see colorful fish.",
+            "question": "Why do I enjoy visiting aquariums?",
+            "expected": "To see colorful fish."
+        },
+        {
+            "tell": "My favorite place to write is in a quiet coffee shop.",
+            "question": "Where do I like writing the most?",
+            "expected": "In a quiet coffee shop."
+        },
+        {
+            "tell": "I enjoy watching live theater performances.",
+            "question": "What type of performances do I enjoy?",
+            "expected": "Live theater performances."
+        },
+        {
+            "tell": "My favorite snack to bring on picnics is fruit salad.",
+            "question": "What snack do I bring on picnics?",
+            "expected": "Fruit salad."
+        },
+        {
+            "tell": "My favorite animal to see in the wild is a deer.",
+            "question": "What is my favorite wild animal to see?",
+            "expected": "A deer."
+        },
+        {
+            "tell": "I enjoy attending workshops on photography techniques.",
+            "question": "What type of workshops do I find interesting?",
+            "expected": "Photography technique workshops."
+        },
+        {
+            "tell": "My favorite way to spend a lazy afternoon is napping in a hammock.",
+            "question": "How do I like spending lazy afternoons?",
+            "expected": "Napping in a hammock."
+        },
+        {
+            "tell": "I like drinking iced coffee in the afternoons.",
+            "question": "What is my favorite afternoon drink?",
+            "expected": "Iced coffee."
+        },
+        {
+            "tell": "My favorite gift to receive is handmade crafts.",
+            "question": "What kind of gifts do I enjoy receiving?",
+            "expected": "Handmade crafts."
+        },
+        {
+            "tell": "I love the scent of fresh pine trees during winter.",
+            "question": "What is my favorite winter scent?",
+            "expected": "The scent of fresh pine trees."
+        },
+        {
+            "tell": "I enjoy birdwatching in the early mornings.",
+            "question": "What do I enjoy doing in the early mornings?",
+            "expected": "You enjoy birdwatching."
+        },
+        {
+            "tell": "My favorite plant to grow indoors is aloe vera.",
+            "question": "What is my favorite indoor plant to grow?",
+            "expected": "Your favorite indoor plant is aloe vera."
+        },
+        {
+            "tell": "I love attending open mic nights to hear poetry.",
+            "question": "Why do I attend open mic nights?",
+            "expected": "To hear poetry."
+        },
+        {
+            "tell": "My favorite thing to bake is banana bread.",
+            "question": "What is my favorite thing to bake?",
+            "expected": "Your favorite thing to bake is banana bread."
+        },
+        {
+            "tell": "My favorite gemstone is sapphire.",
+            "question": "What is my favorite gemstone?",
+            "expected": "Your favorite gemstone is sapphire."
+        },
+        {
+            "tell": "I enjoy making handmade greeting cards for special occasions.",
+            "question": "What creative thing do I make for special occasions?",
+            "expected": "You make handmade greeting cards."
+        },
+        {
+            "tell": "I love exploring historical museums in new cities.",
+            "question": "What do I like to explore in new cities?",
+            "expected": "Historical museums."
+        },
+        {
+            "tell": "My favorite type of pie is pumpkin pie.",
+            "question": "What is my favorite type of pie?",
+            "expected": "Your favorite pie is pumpkin pie."
+        },
+        {
+            "tell": "I like drinking herbal tea before bedtime.",
+            "question": "What do I drink before bedtime?",
+            "expected": "Herbal tea."
+        },
+        {
+            "tell": "My favorite dessert to order at restaurants is cheesecake.",
+            "question": "What dessert do I enjoy ordering at restaurants?",
+            "expected": "Cheesecake."
+        },
+        {
+            "tell": "My favorite flower to see in spring is cherry blossoms.",
+            "question": "What is my favorite spring flower?",
+            "expected": "Cherry blossoms."
+        },
+        {
+            "tell": "I enjoy collecting sea glass from beaches.",
+            "question": "What do I like collecting at beaches?",
+            "expected": "Sea glass."
+        },
+        {
+            "tell": "My favorite smoothie flavor is mango and pineapple.",
+            "question": "What is my favorite smoothie flavor?",
+            "expected": "Mango and pineapple."
+        },
+        {
+            "tell": "I enjoy solving crossword puzzles every morning.",
+            "question": "What type of puzzles do I solve daily?",
+            "expected": "Crossword puzzles."
+        },
+        {
+            "tell": "My favorite room decor is vintage posters.",
+            "question": "What kind of room decor do I like?",
+            "expected": "Vintage posters."
+        },
+        {
+            "tell": "I love listening to audiobook thrillers during long drives.",
+            "question": "What do I listen to during long drives?",
+            "expected": "Audiobook thrillers."
+        },
+        {
+            "tell": "My favorite soup to cook at home is mushroom soup.",
+            "question": "What soup do I enjoy cooking at home?",
+            "expected": "Mushroom soup."
+        },
+        {
+            "tell": "I enjoy practicing Tai Chi in the park.",
+            "question": "What activity do I enjoy practicing in the park?",
+            "expected": "You enjoy practicing Tai Chi."
+        },
+        {
+            "tell": "My favorite childhood storybook was \u201cPeter Pan.\u201d",
+            "question": "What was my favorite childhood storybook?",
+            "expected": "Your favorite childhood storybook was \u201cPeter Pan.\u201d"
+        },
+        {
+            "tell": "I enjoy knitting scarves during the winter months.",
+            "question": "What do I enjoy making in the winter?",
+            "expected": "You enjoy knitting scarves."
+        },
+        {
+            "tell": "My favorite snack for road trips is dried fruit.",
+            "question": "What is my favorite road trip snack?",
+            "expected": "Dried fruit."
+        },
+        {
+            "tell": "I love walking through botanical gardens to relax.",
+            "question": "Where do I like to go to relax?",
+            "expected": "Botanical gardens."
+        },
+        {
+            "tell": "My favorite ice cream topping is caramel sauce.",
+            "question": "What is my favorite ice cream topping?",
+            "expected": "Caramel sauce."
+        },
+        {
+            "tell": "I enjoy star gazing during meteor showers.",
+            "question": "When do I enjoy star gazing the most?",
+            "expected": "During meteor showers."
+        },
+        {
+            "tell": "My favorite childhood activity was climbing trees.",
+            "question": "What was my favorite activity as a child?",
+            "expected": "Your favorite activity was climbing trees."
+        },
+        {
+            "tell": "I love eating fresh strawberries with whipped cream.",
+            "question": "What is my favorite way to eat strawberries?",
+            "expected": "With whipped cream."
+        },
+        {
+            "tell": "My favorite place to relax is a hammock in my backyard.",
+            "question": "Where do I like to relax the most?",
+            "expected": "In a hammock in your backyard."
+        },
+        {
+            "tell": "I enjoy visiting farmers' markets on weekends.",
+            "question": "Where do I like to go on weekends?",
+            "expected": "To farmers' markets."
+        },
+        {
+            "tell": "My favorite time of day to take a walk is early evening.",
+            "question": "When do I like to take a walk?",
+            "expected": "Early evening."
+        },
+        {
+            "tell": "I love making homemade pizzas with different toppings.",
+            "question": "What do I enjoy cooking at home?",
+            "expected": "Homemade pizzas."
+        },
+        {
+            "tell": "My favorite flower to grow in my garden is sunflowers.",
+            "question": "What flower do I like growing in my garden?",
+            "expected": "Sunflowers."
+        },
+        {
+            "tell": "I once joined a book club to discuss novels.",
+            "question": "What group activity have I participated in?",
+            "expected": "A book club to discuss novels."
+        },
+        {
+            "tell": "My favorite way to stay active is by going hiking.",
+            "question": "How do I like to stay active?",
+            "expected": "By going hiking."
+        },
+        {
+            "tell": "I enjoy decorating my room with string lights.",
+            "question": "What do I like using to decorate my room?",
+            "expected": "String lights."
+        },
+        {
+            "tell": "My favorite winter drink is peppermint hot chocolate.",
+            "question": "What is my favorite drink in winter?",
+            "expected": "Peppermint hot chocolate."
+        },
+        {
+            "tell": "I enjoy collecting stamps from different countries.",
+            "question": "What do I collect as a hobby?",
+            "expected": "Stamps from different countries."
+        },
+        {
+            "tell": "My favorite season to go camping is autumn.",
+            "question": "When do I like to go camping?",
+            "expected": "In autumn."
+        },
+        {
+            "tell": "I love trying new flavors of bubble tea.",
+            "question": "What type of drinks do I enjoy experimenting with?",
+            "expected": "Bubble tea."
+        },
+        {
+            "tell": "My favorite fast-food chain is Subway.",
+            "question": "What is my favorite fast-food chain?",
+            "expected": "Your favorite fast-food chain is Subway."
+        },
+        {
+            "tell": "I love spending time by rivers to read and relax.",
+            "question": "Where do I enjoy spending time to read?",
+            "expected": "By rivers."
+        },
+        {
+            "tell": "My favorite type of breakfast is avocado toast.",
+            "question": "What is my favorite breakfast?",
+            "expected": "Avocado toast."
+        },
+        {
+            "tell": "I enjoy walking in the rain with an umbrella.",
+            "question": "What do I enjoy doing in the rain?",
+            "expected": "Walking with an umbrella."
+        },
+        {
+            "tell": "My favorite type of music to dance to is salsa.",
+            "question": "What music do I enjoy dancing to?",
+            "expected": "Salsa music."
+        },
+        {
+            "tell": "I love the smell of freshly brewed coffee.",
+            "question": "What smell do I love the most?",
+            "expected": "Freshly brewed coffee."
+        },
+        {
+            "tell": "My favorite fruit to eat in the summer is watermelon.",
+            "question": "What is my favorite fruit for summer?",
+            "expected": "Watermelon."
+        },
+        {
+            "tell": "I enjoy solving riddles with my friends.",
+            "question": "What activity do I enjoy doing with friends?",
+            "expected": "Solving riddles."
+        },
+        {
+            "tell": "My favorite souvenir to buy is handmade jewelry.",
+            "question": "What is my favorite type of souvenir?",
+            "expected": "Handmade jewelry."
+        },
+        {
+            "tell": "I like organizing my bookshelf by genre.",
+            "question": "How do I like organizing my books?",
+            "expected": "By genre."
+        },
+        {
+            "tell": "My favorite beach activity is collecting seashells.",
+            "question": "What do I enjoy doing at the beach?",
+            "expected": "Collecting seashells."
+        },
+        {
+            "tell": "My favorite smoothie bowl topping is granola.",
+            "question": "What is my favorite smoothie bowl topping?",
+            "expected": "Granola."
+        },
+        {
+            "tell": "I enjoy watching sunsets from the top of a hill.",
+            "question": "Where do I like to watch sunsets?",
+            "expected": "From the top of a hill."
+        },
+        {
+            "tell": "My favorite type of bread is sourdough.",
+            "question": "What is my favorite type of bread?",
+            "expected": "Sourdough."
+        },
+        {
+            "tell": "I love reading mystery novels late at night.",
+            "question": "What do I enjoy reading late at night?",
+            "expected": "Mystery novels."
+        },
+        {
+            "tell": "I enjoy listening to the sound of ocean waves.",
+            "question": "What natural sound do I enjoy the most?",
+            "expected": "The sound of ocean waves."
+        },
+        {
+            "tell": "My favorite animal to see in the wild is an eagle.",
+            "question": "What wild animal do I love seeing?",
+            "expected": "An eagle."
+        },
+        {
+            "tell": "I once took a photography course to improve my skills.",
+            "question": "What course have I taken to improve a hobby?",
+            "expected": "A photography course."
+        },
+        {
+            "tell": "My favorite way to spend a snowy day is building a snowman.",
+            "question": "How do I like spending snowy days?",
+            "expected": "Building a snowman."
+        },
+        {
+            "tell": "I love decorating my notebooks with stickers.",
+            "question": "How do I like decorating my notebooks?",
+            "expected": "With stickers."
+        },
+        {
+            "tell": "I enjoy experimenting with making different types of smoothies.",
+            "question": "What do I enjoy experimenting with in the kitchen?",
+            "expected": "Making smoothies."
+        },
+        {
+            "tell": "My favorite type of hat to wear is a sun hat.",
+            "question": "What is my favorite type of hat?",
+            "expected": "A sun hat."
+        },
+        {
+            "tell": "I love watching wildlife documentaries with my family.",
+            "question": "What do I enjoy watching with my family?",
+            "expected": "Wildlife documentaries."
+        },
+        {
+            "tell": "My favorite type of pasta is spaghetti carbonara.",
+            "question": "What is my favorite type of pasta?",
+            "expected": "Spaghetti carbonara."
+        },
+        {
+            "tell": "I enjoy practicing mindfulness in quiet spaces.",
+            "question": "Where do I like practicing mindfulness?",
+            "expected": "In quiet spaces."
+        },
+        {
+            "tell": "My favorite beach memory is flying a kite.",
+            "question": "What is my favorite memory at the beach?",
+            "expected": "Flying a kite."
+        },
+        {
+            "tell": "I love the scent of fresh-cut grass in spring.",
+            "question": "What is my favorite scent in spring?",
+            "expected": "Fresh-cut grass."
+        },
+        {
+            "tell": "My favorite festival to celebrate is Lunar New Year.",
+            "question": "What is my favorite festival?",
+            "expected": "Lunar New Year."
+        },
+        {
+            "tell": "I enjoy walking through forests during autumn.",
+            "question": "When do I enjoy walking through forests?",
+            "expected": "During autumn."
+        },
+        {
+            "tell": "My favorite pizza crust style is thin crust.",
+            "question": "What is my favorite pizza crust style?",
+            "expected": "Thin crust."
+        },
+        {
+            "tell": "I love listening to acoustic guitar music in the evening.",
+            "question": "What type of music do I like listening to in the evening?",
+            "expected": "Acoustic guitar music."
+        },
+        {
+            "tell": "My favorite animal at the zoo is the giraffe.",
+            "question": "What is my favorite zoo animal?",
+            "expected": "The giraffe."
+        },
+        {
+            "tell": "I enjoy collecting vintage postcards from flea markets.",
+            "question": "What do I like collecting at flea markets?",
+            "expected": "Vintage postcards."
+        },
+        {
+            "tell": "I like drinking chamomile tea to relax before bed.",
+            "question": "What do I drink to relax before bed?",
+            "expected": "Chamomile tea."
+        },
+        {
+            "tell": "My favorite salad ingredient is avocado.",
+            "question": "What is my favorite salad ingredient?",
+            "expected": "Avocado."
+        },
+        {
+            "tell": "My favorite color combination is turquoise and white.",
+            "question": "What is my favorite color combination?",
+            "expected": "Turquoise and white."
+        },
+        {
+            "tell": "I enjoy solving puzzles on rainy afternoons.",
+            "question": "What do I like doing on rainy afternoons?",
+            "expected": "Solving puzzles."
+        },
+        {
+            "tell": "My favorite room to decorate is the living room.",
+            "question": "What is my favorite room to decorate?",
+            "expected": "The living room."
+        },
+        {
+            "tell": "My lucky number is 8.",
+            "question": "What is my lucky number?",
+            "expected": "Your lucky number is 8."
+        },
+        {
+            "tell": "I enjoy building small wooden furniture as a hobby.",
+            "question": "What is my creative hobby?",
+            "expected": "You enjoy building small wooden furniture."
+        },
+        {
+            "tell": "I love taking photographs of sunsets.",
+            "question": "What do I enjoy taking photographs of?",
+            "expected": "You enjoy taking photographs of sunsets."
+        },
+        {
+            "tell": "I\u2019m afraid of heights.",
+            "question": "What is my biggest fear?",
+            "expected": "You are afraid of heights."
+        },
+        {
+            "tell": "My favorite flower is the sunflower.",
+            "question": "What is my favorite flower?",
+            "expected": "Your favorite flower is the sunflower."
+        },
+        {
+            "tell": "I like keeping a journal to record my thoughts.",
+            "question": "What do I use to record my thoughts?",
+            "expected": "You use a journal."
+        },
+        {
+            "tell": "I usually listen to podcasts about science.",
+            "question": "What type of podcasts do I listen to?",
+            "expected": "You listen to science podcasts."
+        },
+        {
+            "tell": "I prefer wearing sneakers over formal shoes.",
+            "question": "What type of shoes do I prefer?",
+            "expected": "You prefer wearing sneakers."
+        },
+        {
+            "tell": "My favorite painting is \u201cStarry Night\u201d by Van Gogh.",
+            "question": "What is my favorite painting?",
+            "expected": "Your favorite painting is \u201cStarry Night\u201d by Van Gogh."
+        },
+        {
+            "tell": "I love eating mangoes in the summer.",
+            "question": "What fruit do I enjoy eating in the summer?",
+            "expected": "You enjoy eating mangoes in the summer."
+        },
+        {
+            "tell": "I\u2019ve been practicing yoga for two years now.",
+            "question": "How long have I been practicing yoga?",
+            "expected": "You have been practicing yoga for two years."
+        },
+        {
+            "tell": "I enjoy watching documentaries about space.",
+            "question": "What type of documentaries do I enjoy watching?",
+            "expected": "You enjoy watching documentaries about space."
+        },
+        {
+            "tell": "I usually drink green tea after meals.",
+            "question": "What do I usually drink after meals?",
+            "expected": "You usually drink green tea."
+        },
+        {
+            "tell": "My favorite outdoor activity is camping.",
+            "question": "What is my favorite outdoor activity?",
+            "expected": "Your favorite outdoor activity is camping."
+        },
+        {
+            "tell": "I enjoy listening to jazz music on rainy days.",
+            "question": "What music do I enjoy on rainy days?",
+            "expected": "You enjoy listening to jazz music."
+        },
+        {
+            "tell": "I have a collection of vintage postcards.",
+            "question": "What do I collect as a hobby?",
+            "expected": "You collect vintage postcards."
+        },
+        {
+            "tell": "I get inspired by people who never give up.",
+            "question": "Who inspires me the most?",
+            "expected": "People who never give up inspire you."
+        },
+        {
+            "tell": "I always spend my Sunday mornings reading in the park.",
+            "question": "What do I do on Sunday mornings?",
+            "expected": "You spend Sunday mornings reading in the park."
+        },
+        {
+            "tell": "My favorite scent is lavender.",
+            "question": "What is my favorite scent?",
+            "expected": "Your favorite scent is lavender."
+        },
+        {
+            "tell": "I enjoy solving riddles and brain teasers.",
+            "question": "What do I enjoy doing for fun?",
+            "expected": "You enjoy solving riddles and brain teasers."
+        },
+        {
+            "tell": "I recently started learning calligraphy.",
+            "question": "What new skill am I learning?",
+            "expected": "You are learning calligraphy."
+        },
+        {
+            "tell": "My favorite time of the day is early morning.",
+            "question": "What is my favorite time of the day?",
+            "expected": "Early morning is your favorite time of the day."
+        }
+    ],
+    "Relationships_and_Connections": [
+        {
+            "tell": "Nhi is my Dog name",
+            "question": "Last time we talked, I mentioned my dog's name. Do you remember it?",
+            "expected": "Yes, I remember! Your dog's name is Nhi."
+        },
+        {
+            "tell": "Tram is really hate snake you know?",
+            "question": "what my girlfriend hate most",
+            "expected": "Your girlfriend, Tram, hates snakes the most"
+        },
+        {
+            "tell": "I feel happiest when I\u2019m with my family.",
+            "question": "Do you know when do i feel happinest?",
+            "expected": "When you're with your family"
+        },
+        {
+            "tell": "The person i admire the most is my father",
+            "question": "Who do I admire the most?",
+            "expected": "Certainly, your father"
+        },
+        {
+            "tell": "I have a brother named Tuan.",
+            "question": "Do you remember my brother's name?",
+            "expected": "Yes, your brother's name is Tuan."
+        },
+        {
+            "tell": "My best friend\u2019s name is Mai.",
+            "question": "Who is my best friend?",
+            "expected": "Your best friend\u2019s name is Mai."
+        },
+        {
+            "tell": "I always celebrate Christmas with my family.",
+            "question": "How do I usually celebrate Christmas?",
+            "expected": "You celebrate Christmas with your family."
+        },
+        {
+            "tell": "I enjoy cooking Italian food for my family.",
+            "question": "What kind of food do I enjoy cooking?",
+            "expected": "You enjoy cooking Italian food."
+        },
+        {
+            "tell": "I once baked a cake for my best friend's birthday.",
+            "question": "What special thing did I do for my best friend?",
+            "expected": "You baked a cake for their birthday."
+        },
+        {
+            "tell": "I enjoy writing letters to my friends.",
+            "question": "What do I enjoy doing for my friends?",
+            "expected": "You enjoy writing letters to your friends."
+        },
+        {
+            "tell": "I love playing card games with my cousins.",
+            "question": "What do I enjoy doing with my cousins?",
+            "expected": "You enjoy playing card games."
+        },
+        {
+            "tell": "I once designed a custom T-shirt for my friend.",
+            "question": "What unique gift have I given to a friend?",
+            "expected": "You designed a custom T-shirt for your friend."
+        },
+        {
+            "tell": "I once spent a night camping under the stars with my friends.",
+            "question": "What memorable experience did I have with friends?",
+            "expected": "You camped under the stars with them."
+        },
+        {
+            "tell": "I once built a treehouse with my friends.",
+            "question": "What did I build with my friends?",
+            "expected": "You built a treehouse with your friends."
+        },
+        {
+            "tell": "My childhood pet was a goldfish named Bubbles.",
+            "question": "What was the name of my childhood pet?",
+            "expected": "Your childhood pet's name was Bubbles."
+        },
+        {
+            "tell": "I enjoy solving jigsaw puzzles with my family.",
+            "question": "What activity do I enjoy doing with my family?",
+            "expected": "You enjoy solving jigsaw puzzles with your family."
+        },
+        {
+            "tell": "I once fostered a stray puppy until it found a home.",
+            "question": "What act of kindness have I done for an animal?",
+            "expected": "You fostered a stray puppy until it found a home."
+        },
+        {
+            "tell": "I enjoy exploring caves with my friends.",
+            "question": "What adventurous activity do I enjoy?",
+            "expected": "You enjoy exploring caves with your friends."
+        },
+        {
+            "tell": "I once painted a portrait of my best friend.",
+            "question": "What artistic thing have I done for my friend?",
+            "expected": "You painted a portrait of your best friend."
+        },
+        {
+            "tell": "I love solving logic puzzles with my siblings.",
+            "question": "What activity do I enjoy doing with my siblings?",
+            "expected": "You enjoy solving logic puzzles."
+        },
+        {
+            "tell": "I once took a road trip across my country with friends.",
+            "question": "What is an adventure I\u2019ve done with friends?",
+            "expected": "You took a road trip across your country."
+        },
+        {
+            "tell": "I once designed a logo for a friend\u2019s business.",
+            "question": "What creative project did I do for a friend?",
+            "expected": "You designed a logo for their business."
+        },
+        {
+            "tell": "My favorite childhood memory is baking cookies with my grandma.",
+            "question": "What is my favorite childhood memory?",
+            "expected": "Baking cookies with your grandma."
+        },
+        {
+            "tell": "I once planted a vegetable garden with my family.",
+            "question": "What gardening activity have I done with my family?",
+            "expected": "You planted a vegetable garden."
+        },
+        {
+            "tell": "I love playing chess with my grandfather.",
+            "question": "Who do I enjoy playing chess with?",
+            "expected": "You enjoy playing chess with your grandfather."
+        },
+        {
+            "tell": "I once created a photo album for a friend's wedding.",
+            "question": "What meaningful gift have I made for someone?",
+            "expected": "A photo album for a friend\u2019s wedding."
+        },
+        {
+            "tell": "I once joined a book club to discuss novels.",
+            "question": "What group activity have I participated in?",
+            "expected": "A book club to discuss novels."
+        },
+        {
+            "tell": "I enjoy solving riddles with my friends.",
+            "question": "What activity do I enjoy doing with friends?",
+            "expected": "Solving riddles."
+        },
+        {
+            "tell": "I love watching wildlife documentaries with my family.",
+            "question": "What do I enjoy watching with my family?",
+            "expected": "Wildlife documentaries."
+        },
+        {
+            "tell": "I once adopted a stray kitten and named it Luna.",
+            "question": "What did I name the kitten I adopted?",
+            "expected": "You named the kitten Luna."
+        }
+    ],
+    "Contextual_and_Multi_Session_Memory": [
+        {
+            "tell": "Nhi is my Dog name",
+            "question": "Last time we talked, I mentioned my dog's name. Do you remember it?",
+            "expected": "Yes, I remember! Your dog's name is Nhi."
+        },
+        {
+            "tell": "If I have time I always want to go to Da Lat city",
+            "question": "What's my favorite city to go if I'm have time",
+            "expected": "Your favorite city to go to if you have time is Da Lat"
+        },
+        {
+            "tell": "I love Pizza",
+            "question": "Do you know my favorite food?",
+            "expected": "Yes, your favorite food is pizza!"
+        },
+        {
+            "tell": "I feel happiest when I\u2019m with my family.",
+            "question": "Do you know when do i feel happinest?",
+            "expected": "When you're with your family"
+        },
+        {
+            "tell": "The language I\u2019m currently learning is Japanese",
+            "question": "What language am i learning?",
+            "expected": "You are currently learning Japanese"
+        },
+        {
+            "tell": "The person i admire the most is my father",
+            "question": "Who do I admire the most?",
+            "expected": "Certainly, your father"
+        },
+        {
+            "tell": "I feel most productive when I work in a quiet environment.",
+            "question": "When do I feel most productive?",
+            "expected": "When you work in a quiet environment"
+        },
+        {
+            "tell": "I prefer staying up late over waking up early.",
+            "question": "Do I prefer staying up late or waking up early?",
+            "expected": "Staying up late"
+        },
+        {
+            "tell": "The subject I enjoyed the most in school was history.",
+            "question": "Which subject did I enjoy the most in school?",
+            "expected": "History"
+        },
+        {
+            "tell": "The first time I traveled by plane was when I was 20 years old",
+            "question": "When was the first time I traveled by plane?",
+            "expected": "When you were 18 years old"
+        },
+        {
+            "tell": "The season I dislike the most is summer because of the heat",
+            "question": "Which season do I dislike the most and why?",
+            "expected": "Summer because of the heat"
+        },
+        {
+            "tell": "I love rainy days because they make me feel cozy",
+            "question": "Why do I love rainy days?",
+            "expected": "Because they make me feel cozy"
+        },
+        {
+            "tell": "I like 12 Angry Men the most",
+            "question": "What movie do you like best?",
+            "expected": "12 Angry Men is your favorite"
+        },
+        {
+            "tell": "The color I like the most is blue.",
+            "question": "What is my favorite color?",
+            "expected": "Your favorite color is blue."
+        },
+        {
+            "tell": "I am currently living in Hanoi.",
+            "question": "Where am I living now?",
+            "expected": "You are living in Hanoi."
+        },
+        {
+            "tell": "I enjoy hiking on weekends.",
+            "question": "What do I enjoy doing on weekends?",
+            "expected": "You enjoy hiking on weekends."
+        },
+        {
+            "tell": "The book I\u2019m currently reading is \u201c1984.\u201d",
+            "question": "What book am I reading currently?",
+            "expected": "You\u2019re reading \u201c1984.\u201d"
+        },
+        {
+            "tell": "My best friend\u2019s name is Mai.",
+            "question": "Who is my best friend?",
+            "expected": "Your best friend\u2019s name is Mai."
+        },
+        {
+            "tell": "I once climbed the tallest mountain in my country.",
+            "question": "What is one adventurous thing I've done?",
+            "expected": "You climbed the tallest mountain in your country."
+        },
+        {
+            "tell": "My favorite animal is a dolphin.",
+            "question": "What is my favorite animal?",
+            "expected": "Your favorite animal is a dolphin."
+        },
+        {
+            "tell": "I am allergic to peanuts.",
+            "question": "Do I have any allergies?",
+            "expected": "Yes, you are allergic to peanuts."
+        },
+        {
+            "tell": "The last movie I watched was \u201cInception.\u201d",
+            "question": "What was the last movie I watched?",
+            "expected": "The last movie you watched was \u201cInception.\u201d"
+        },
+        {
+            "tell": "I love collecting stamps from different countries.",
+            "question": "What is one of my hobbies?",
+            "expected": "You love collecting stamps from different countries."
+        },
+        {
+            "tell": "I prefer dogs over cats as pets.",
+            "question": "Do I prefer dogs or cats?",
+            "expected": "You prefer dogs."
+        },
+        {
+            "tell": "I have visited three countries so far.",
+            "question": "How many countries have I visited?",
+            "expected": "You have visited three countries."
+        },
+        {
+            "tell": "I enjoy cooking Italian food for my family.",
+            "question": "What kind of food do I enjoy cooking?",
+            "expected": "You enjoy cooking Italian food."
+        },
+        {
+            "tell": "I volunteer at an animal shelter every weekend.",
+            "question": "What do I do every weekend?",
+            "expected": "You volunteer at an animal shelter."
+        },
+        {
+            "tell": "I grew up in a small village near the mountains.",
+            "question": "Where did I grow up?",
+            "expected": "You grew up in a small village near the mountains."
+        },
+        {
+            "tell": "I can speak three languages fluently.",
+            "question": "How many languages can I speak fluently?",
+            "expected": "You can speak three languages fluently."
+        },
+        {
+            "tell": "I\u2019m planning to run a marathon next year.",
+            "question": "What am I planning to do next year?",
+            "expected": "You\u2019re planning to run a marathon."
+        },
+        {
+            "tell": "My childhood nickname was \u201cBunny.\u201d",
+            "question": "What was my childhood nickname?",
+            "expected": "Your childhood nickname was \u201cBunny.\u201d"
+        },
+        {
+            "tell": "I\u2019ve been playing badminton since high school.",
+            "question": "What sport have I been playing since high school?",
+            "expected": "You\u2019ve been playing badminton since high school."
+        },
+        {
+            "tell": "I absolutely dislike eating olives.",
+            "question": "What food do I dislike?",
+            "expected": "You dislike eating olives."
+        },
+        {
+            "tell": "My best vacation was a road trip across Vietnam.",
+            "question": "What was my best vacation?",
+            "expected": "Your best vacation was a road trip across Vietnam."
+        },
+        {
+            "tell": "I learned how to code when I was in university.",
+            "question": "When did I learn how to code?",
+            "expected": "You learned how to code in university."
+        },
+        {
+            "tell": "I always wake up feeling refreshed after a good night\u2019s sleep.",
+            "question": "How do I feel after a good night\u2019s sleep?",
+            "expected": "You feel refreshed."
+        },
+        {
+            "tell": "My dream house is by the beach.",
+            "question": "What is my dream house like?",
+            "expected": "Your dream house is by the beach."
+        },
+        {
+            "tell": "I\u2019ve been a vegetarian for five years.",
+            "question": "How long have I been a vegetarian?",
+            "expected": "You\u2019ve been a vegetarian for five years."
+        },
+        {
+            "tell": "I once organized a charity event for children.",
+            "question": "What special event have I organized?",
+            "expected": "You organized a charity event for children."
+        },
+        {
+            "tell": "My favorite game as a child was hide-and-seek.",
+            "question": "What was my favorite game as a child?",
+            "expected": "Your favorite game as a child was hide-and-seek."
+        },
+        {
+            "tell": "I love watching the sunrise at the beach.",
+            "question": "What do I enjoy watching at the beach?",
+            "expected": "You enjoy watching the sunrise."
+        },
+        {
+            "tell": "I once painted a mural for my school.",
+            "question": "What creative project did I do for my school?",
+            "expected": "You painted a mural."
+        },
+        {
+            "tell": "I feel most relaxed when I\u2019m gardening.",
+            "question": "When do I feel most relaxed?",
+            "expected": "When you\u2019re gardening."
+        },
+        {
+            "tell": "I once wrote a short story that won an award.",
+            "question": "What is one of my achievements in writing?",
+            "expected": "You wrote a short story that won an award."
+        },
+        {
+            "tell": "I enjoy taking long walks in the forest.",
+            "question": "What do I enjoy doing in the forest?",
+            "expected": "You enjoy taking long walks."
+        },
+        {
+            "tell": "I once wrote a letter to my future self.",
+            "question": "What did I do to reflect on my future?",
+            "expected": "You wrote a letter to your future self."
+        },
+        {
+            "tell": "I\u2019ve been learning salsa dancing for three months.",
+            "question": "What new skill have I been learning recently?",
+            "expected": "You\u2019ve been learning salsa dancing."
+        },
+        {
+            "tell": "I once participated in a school play as the main character.",
+            "question": "What role did I play in a school play?",
+            "expected": "You were the main character."
+        },
+        {
+            "tell": "I enjoy fixing old furniture and giving it new life.",
+            "question": "What is a hands-on project I enjoy doing?",
+            "expected": "You enjoy fixing old furniture."
+        },
+        {
+            "tell": "I enjoy reading detective novels on rainy days.",
+            "question": "What type of books do I enjoy on rainy days?",
+            "expected": "You enjoy reading detective novels."
+        },
+        {
+            "tell": "I keep a photo album of all my travels.",
+            "question": "What do I keep to remember my travels?",
+            "expected": "You keep a photo album."
+        },
+        {
+            "tell": "My favorite festival is the Mid-Autumn Festival.",
+            "question": "What is my favorite festival?",
+            "expected": "Your favorite festival is the Mid-Autumn Festival."
+        },
+        {
+            "tell": "I enjoy visiting botanical gardens during spring.",
+            "question": "Where do I enjoy visiting in spring?",
+            "expected": "You enjoy visiting botanical gardens."
+        },
+        {
+            "tell": "I always carry a sketchbook when I travel.",
+            "question": "What do I always carry when traveling?",
+            "expected": "You always carry a sketchbook."
+        },
+        {
+            "tell": "My childhood pet was a goldfish named Bubbles.",
+            "question": "What was the name of my childhood pet?",
+            "expected": "Your childhood pet's name was Bubbles."
+        },
+        {
+            "tell": "I once rode a horse on a mountain trail.",
+            "question": "What adventurous activity have I done on a trail?",
+            "expected": "You rode a horse on a mountain trail."
+        },
+        {
+            "tell": "I enjoy solving jigsaw puzzles with my family.",
+            "question": "What activity do I enjoy doing with my family?",
+            "expected": "You enjoy solving jigsaw puzzles with your family."
+        },
+        {
+            "tell": "I once got lost in a big city but found my way back.",
+            "question": "What is an unusual experience I\u2019ve had in a city?",
+            "expected": "You got lost but found your way back."
+        },
+        {
+            "tell": "I enjoy practicing mindfulness meditation daily.",
+            "question": "What do I practice daily for relaxation?",
+            "expected": "You practice mindfulness meditation."
+        },
+        {
+            "tell": "I once spent a whole day birdwatching in the forest.",
+            "question": "What outdoor activity have I spent a full day doing?",
+            "expected": "You spent a day birdwatching in the forest."
+        },
+        {
+            "tell": "I love attending cultural festivals in different countries.",
+            "question": "What do I enjoy doing while traveling?",
+            "expected": "You enjoy attending cultural festivals."
+        },
+        {
+            "tell": "I enjoy solving Sudoku puzzles in my free time.",
+            "question": "What puzzles do I like solving?",
+            "expected": "You like solving Sudoku puzzles."
+        },
+        {
+            "tell": "I once stayed awake all night to watch a meteor shower.",
+            "question": "What is something special I\u2019ve done at night?",
+            "expected": "You stayed awake all night to watch a meteor shower."
+        },
+        {
+            "tell": "I enjoy collecting postcards from every place I visit.",
+            "question": "What do I collect when I travel?",
+            "expected": "You collect postcards."
+        },
+        {
+            "tell": "My favorite place to read is by a riverside.",
+            "question": "Where do I like to read the most?",
+            "expected": "Your favorite place to read is by a riverside."
+        },
+        {
+            "tell": "My favorite childhood memory is flying a kite.",
+            "question": "What is my favorite childhood memory?",
+            "expected": "Flying a kite is your favorite childhood memory."
+        },
+        {
+            "tell": "My favorite spice to use in cooking is cinnamon.",
+            "question": "What is my favorite spice?",
+            "expected": "Your favorite spice is cinnamon."
+        },
+        {
+            "tell": "I once created a scrapbook of my summer vacation.",
+            "question": "What creative project did I make about my vacation?",
+            "expected": "You created a scrapbook of your summer vacation."
+        },
+        {
+            "tell": "I enjoy building sandcastles when I visit the beach.",
+            "question": "What do I enjoy doing at the beach?",
+            "expected": "You enjoy building sandcastles."
+        },
+        {
+            "tell": "I feel inspired by people who help others selflessly.",
+            "question": "Who inspires me the most?",
+            "expected": "People who help others selflessly inspire you."
+        },
+        {
+            "tell": "I once painted a portrait of my best friend.",
+            "question": "What artistic thing have I done for my friend?",
+            "expected": "You painted a portrait of your best friend."
+        },
+        {
+            "tell": "I enjoy watching fireflies in the countryside at night.",
+            "question": "What do I enjoy doing in the countryside at night?",
+            "expected": "You enjoy watching fireflies."
+        },
+        {
+            "tell": "I love solving logic puzzles with my siblings.",
+            "question": "What activity do I enjoy doing with my siblings?",
+            "expected": "You enjoy solving logic puzzles."
+        },
+        {
+            "tell": "I once took a road trip across my country with friends.",
+            "question": "What is an adventure I\u2019ve done with friends?",
+            "expected": "You took a road trip across your country."
+        },
+        {
+            "tell": "I love collecting antique clocks.",
+            "question": "What unique items do I collect?",
+            "expected": "You collect antique clocks."
+        },
+        {
+            "tell": "I once designed a logo for a friend\u2019s business.",
+            "question": "What creative project did I do for a friend?",
+            "expected": "You designed a logo for their business."
+        },
+        {
+            "tell": "My favorite animal to see in the zoo is a panda.",
+            "question": "What is my favorite zoo animal?",
+            "expected": "Your favorite zoo animal is a panda."
+        },
+        {
+            "tell": "I love planting sunflowers in my backyard every spring.",
+            "question": "What do I enjoy planting in spring?",
+            "expected": "You enjoy planting sunflowers."
+        },
+        {
+            "tell": "I once learned how to make origami animals.",
+            "question": "What creative skill have I learned?",
+            "expected": "You learned how to make origami animals."
+        },
+        {
+            "tell": "I enjoy writing motivational quotes in my journal.",
+            "question": "What do I write in my journal?",
+            "expected": "You write motivational quotes."
+        },
+        {
+            "tell": "I once helped plant flowers in a community garden.",
+            "question": "What community activity have I done?",
+            "expected": "You helped plant flowers in a community garden."
+        },
+        {
+            "tell": "I always bring a reusable water bottle with me.",
+            "question": "What do I always carry with me?",
+            "expected": "You always carry a reusable water bottle."
+        },
+        {
+            "tell": "I once took part in a photography contest.",
+            "question": "What contest have I participated in?",
+            "expected": "You participated in a photography contest."
+        },
+        {
+            "tell": "I enjoy going to vintage markets to find unique items.",
+            "question": "Where do I like shopping for unique items?",
+            "expected": "Vintage markets."
+        },
+        {
+            "tell": "I once donated my old clothes to a local charity.",
+            "question": "What act of kindness have I done recently?",
+            "expected": "You donated your old clothes to a local charity."
+        },
+        {
+            "tell": "I like reading fantasy novels before bed.",
+            "question": "What do I like reading before bed?",
+            "expected": "You like reading fantasy novels."
+        },
+        {
+            "tell": "My favorite holiday destination is the Maldives.",
+            "question": "What is my favorite holiday destination?",
+            "expected": "Your favorite holiday destination is the Maldives."
+        },
+        {
+            "tell": "I enjoy going to food markets to try new dishes.",
+            "question": "Where do I go to explore new dishes?",
+            "expected": "You go to food markets."
+        },
+        {
+            "tell": "I like visiting old libraries to feel the history.",
+            "question": "Where do I enjoy going to feel connected to history?",
+            "expected": "You enjoy visiting old libraries."
+        },
+        {
+            "tell": "My favorite way to spend Sundays is baking cookies.",
+            "question": "How do I like to spend Sundays?",
+            "expected": "You like spending Sundays baking cookies."
+        },
+        {
+            "tell": "I once watched the sunrise from the top of a mountain.",
+            "question": "What is one memorable experience I\u2019ve had in nature?",
+            "expected": "You watched the sunrise from the top of a mountain."
+        },
+        {
+            "tell": "My favorite drink to have at night is hot chocolate.",
+            "question": "What is my favorite nighttime drink?",
+            "expected": "Your favorite nighttime drink is hot chocolate."
+        },
+        {
+            "tell": "My favorite type of tea is green tea with jasmine.",
+            "question": "What is my favorite type of tea?",
+            "expected": "Your favorite tea is green tea with jasmine."
+        },
+        {
+            "tell": "I love camping by a lake during summer vacations.",
+            "question": "Where do I like camping during summer?",
+            "expected": "By a lake."
+        },
+        {
+            "tell": "I always carry a sketchpad when I visit new places.",
+            "question": "What do I carry with me when traveling?",
+            "expected": "A sketchpad."
+        },
+        {
+            "tell": "I enjoy practicing yoga outdoors in the mornings.",
+            "question": "When and where do I like practicing yoga?",
+            "expected": "Outdoors in the mornings."
+        },
+        {
+            "tell": "I once joined a hiking group to explore new trails.",
+            "question": "What group activity have I participated in?",
+            "expected": "You joined a hiking group to explore new trails."
+        },
+        {
+            "tell": "My favorite painting medium is oil paints.",
+            "question": "What is my favorite painting medium?",
+            "expected": "Your favorite painting medium is oil paints."
+        },
+        {
+            "tell": "My favorite fruit to eat in autumn is persimmons.",
+            "question": "What is my favorite autumn fruit?",
+            "expected": "Your favorite autumn fruit is persimmons."
+        },
+        {
+            "tell": "I enjoy writing handwritten letters to my friends.",
+            "question": "How do I communicate with my friends creatively?",
+            "expected": "By writing handwritten letters."
+        },
+        {
+            "tell": "My favorite childhood activity was building sandcastles.",
+            "question": "What was my favorite activity as a child?",
+            "expected": "Building sandcastles."
+        },
+        {
+            "tell": "I enjoy journaling about my daily experiences.",
+            "question": "What do I enjoy doing to reflect on my day?",
+            "expected": "You enjoy journaling about your daily experiences."
+        },
+        {
+            "tell": "I love exploring small, cozy bookstores in new cities.",
+            "question": "What do I enjoy exploring in new cities?",
+            "expected": "Small, cozy bookstores."
+        },
+        {
+            "tell": "I once saw a double rainbow after a storm.",
+            "question": "What is a unique weather phenomenon I\u2019ve seen?",
+            "expected": "A double rainbow after a storm."
+        },
+        {
+            "tell": "My favorite way to celebrate my birthday is with a picnic.",
+            "question": "How do I like to celebrate my birthday?",
+            "expected": "You like celebrating with a picnic."
+        },
+        {
+            "tell": "My favorite fruit to eat on a hot day is pineapple.",
+            "question": "What is my favorite fruit for hot days?",
+            "expected": "Pineapple."
+        },
+        {
+            "tell": "I once created a photo album for a friend's wedding.",
+            "question": "What meaningful gift have I made for someone?",
+            "expected": "A photo album for a friend\u2019s wedding."
+        },
+        {
+            "tell": "My favorite part of the day is the golden hour before sunset.",
+            "question": "What is my favorite time of the day?",
+            "expected": "The golden hour before sunset."
+        },
+        {
+            "tell": "I love visiting aquariums to see colorful fish.",
+            "question": "Why do I enjoy visiting aquariums?",
+            "expected": "To see colorful fish."
+        },
+        {
+            "tell": "I love attending open mic nights to hear poetry.",
+            "question": "Why do I attend open mic nights?",
+            "expected": "To hear poetry."
+        },
+        {
+            "tell": "I love exploring historical museums in new cities.",
+            "question": "What do I like to explore in new cities?",
+            "expected": "Historical museums."
+        },
+        {
+            "tell": "I enjoy collecting sea glass from beaches.",
+            "question": "What do I like collecting at beaches?",
+            "expected": "Sea glass."
+        },
+        {
+            "tell": "I enjoy solving crossword puzzles every morning.",
+            "question": "What type of puzzles do I solve daily?",
+            "expected": "Crossword puzzles."
+        },
+        {
+            "tell": "My favorite room decor is vintage posters.",
+            "question": "What kind of room decor do I like?",
+            "expected": "Vintage posters."
+        },
+        {
+            "tell": "I enjoy practicing Tai Chi in the park.",
+            "question": "What activity do I enjoy practicing in the park?",
+            "expected": "You enjoy practicing Tai Chi."
+        },
+        {
+            "tell": "My favorite childhood storybook was \u201cPeter Pan.\u201d",
+            "question": "What was my favorite childhood storybook?",
+            "expected": "Your favorite childhood storybook was \u201cPeter Pan.\u201d"
+        },
+        {
+            "tell": "My favorite snack for road trips is dried fruit.",
+            "question": "What is my favorite road trip snack?",
+            "expected": "Dried fruit."
+        },
+        {
+            "tell": "I love walking through botanical gardens to relax.",
+            "question": "Where do I like to go to relax?",
+            "expected": "Botanical gardens."
+        },
+        {
+            "tell": "I enjoy star gazing during meteor showers.",
+            "question": "When do I enjoy star gazing the most?",
+            "expected": "During meteor showers."
+        },
+        {
+            "tell": "I enjoy visiting farmers' markets on weekends.",
+            "question": "Where do I like to go on weekends?",
+            "expected": "To farmers' markets."
+        },
+        {
+            "tell": "I once joined a book club to discuss novels.",
+            "question": "What group activity have I participated in?",
+            "expected": "A book club to discuss novels."
+        },
+        {
+            "tell": "My favorite way to stay active is by going hiking.",
+            "question": "How do I like to stay active?",
+            "expected": "By going hiking."
+        },
+        {
+            "tell": "My favorite winter drink is peppermint hot chocolate.",
+            "question": "What is my favorite drink in winter?",
+            "expected": "Peppermint hot chocolate."
+        },
+        {
+            "tell": "I once made a scrapbook to remember my summer vacation.",
+            "question": "What creative project have I made about a trip?",
+            "expected": "A scrapbook of your summer vacation."
+        },
+        {
+            "tell": "I love trying new flavors of bubble tea.",
+            "question": "What type of drinks do I enjoy experimenting with?",
+            "expected": "Bubble tea."
+        },
+        {
+            "tell": "I once learned to play the ukulele during a summer break.",
+            "question": "What musical instrument did I learn to play?",
+            "expected": "The ukulele."
+        },
+        {
+            "tell": "I love spending time by rivers to read and relax.",
+            "question": "Where do I enjoy spending time to read?",
+            "expected": "By rivers."
+        },
+        {
+            "tell": "I like organizing my bookshelf by genre.",
+            "question": "How do I like organizing my books?",
+            "expected": "By genre."
+        },
+        {
+            "tell": "My favorite beach activity is collecting seashells.",
+            "question": "What do I enjoy doing at the beach?",
+            "expected": "Collecting seashells."
+        },
+        {
+            "tell": "My favorite smoothie bowl topping is granola.",
+            "question": "What is my favorite smoothie bowl topping?",
+            "expected": "Granola."
+        },
+        {
+            "tell": "My favorite animal to see in the wild is an eagle.",
+            "question": "What wild animal do I love seeing?",
+            "expected": "An eagle."
+        },
+        {
+            "tell": "I love decorating my notebooks with stickers.",
+            "question": "How do I like decorating my notebooks?",
+            "expected": "With stickers."
+        },
+        {
+            "tell": "My favorite animal at the zoo is the giraffe.",
+            "question": "What is my favorite zoo animal?",
+            "expected": "The giraffe."
+        },
+        {
+            "tell": "I once attended a workshop on bookbinding.",
+            "question": "What workshop have I attended to learn a new craft?",
+            "expected": "A bookbinding workshop."
+        },
+        {
+            "tell": "I once won a trophy in a chess tournament.",
+            "question": "What award have I won?",
+            "expected": "You won a trophy in a chess tournament."
+        },
+        {
+            "tell": "I\u2019m afraid of heights.",
+            "question": "What is my biggest fear?",
+            "expected": "You are afraid of heights."
+        },
+        {
+            "tell": "I learned how to swim when I was 5 years old.",
+            "question": "When did I learn how to swim?",
+            "expected": "You learned how to swim when you were 5 years old."
+        },
+        {
+            "tell": "I like keeping a journal to record my thoughts.",
+            "question": "What do I use to record my thoughts?",
+            "expected": "You use a journal."
+        },
+        {
+            "tell": "The first car I owned was a red Toyota.",
+            "question": "What was the first car I owned?",
+            "expected": "Your first car was a red Toyota."
+        },
+        {
+            "tell": "I\u2019m trying to grow a vegetable garden at home.",
+            "question": "What project am I currently working on at home?",
+            "expected": "You are growing a vegetable garden."
+        },
+        {
+            "tell": "I once adopted a stray kitten and named it Luna.",
+            "question": "What did I name the kitten I adopted?",
+            "expected": "You named the kitten Luna."
+        },
+        {
+            "tell": "My childhood dream was to become an astronaut.",
+            "question": "What was my childhood dream job?",
+            "expected": "Your childhood dream job was to become an astronaut."
+        },
+        {
+            "tell": "I have a collection of vintage postcards.",
+            "question": "What do I collect as a hobby?",
+            "expected": "You collect vintage postcards."
+        },
+        {
+            "tell": "I recently started learning calligraphy.",
+            "question": "What new skill am I learning?",
+            "expected": "You are learning calligraphy."
+        }
+    ],
+    "Locations_and_Places": [
+        {
+            "tell": "If I have time I always want to go to Da Lat city",
+            "question": "What's my favorite city to go if I'm have time",
+            "expected": "Your favorite city to go to if you have time is Da Lat"
+        },
+        {
+            "tell": "I am currently living in Hanoi.",
+            "question": "Where am I living now?",
+            "expected": "You are living in Hanoi."
+        },
+        {
+            "tell": "I enjoy hiking on weekends.",
+            "question": "What do I enjoy doing on weekends?",
+            "expected": "You enjoy hiking on weekends."
+        },
+        {
+            "tell": "I have visited three countries so far.",
+            "question": "How many countries have I visited?",
+            "expected": "You have visited three countries."
+        },
+        {
+            "tell": "I grew up in a small village near the mountains.",
+            "question": "Where did I grow up?",
+            "expected": "You grew up in a small village near the mountains."
+        },
+        {
+            "tell": "I once saw a solar eclipse while traveling.",
+            "question": "What unique natural event have I witnessed?",
+            "expected": "You witnessed a solar eclipse while traveling."
+        },
+        {
+            "tell": "My best vacation was a road trip across Vietnam.",
+            "question": "What was my best vacation?",
+            "expected": "Your best vacation was a road trip across Vietnam."
+        },
+        {
+            "tell": "I love riding my bicycle along the riverside.",
+            "question": "What do I enjoy doing by the riverside?",
+            "expected": "You enjoy riding your bicycle along the riverside."
+        },
+        {
+            "tell": "I enjoy taking long walks in the forest.",
+            "question": "What do I enjoy doing in the forest?",
+            "expected": "You enjoy taking long walks."
+        },
+        {
+            "tell": "My favorite place to relax is a hammock in my backyard.",
+            "question": "Where do I like to relax the most?",
+            "expected": "In a hammock in your backyard."
+        },
+        {
+            "tell": "I enjoy visiting botanical gardens during spring.",
+            "question": "Where do I enjoy visiting in spring?",
+            "expected": "You enjoy visiting botanical gardens."
+        },
+        {
+            "tell": "I once got lost in a big city but found my way back.",
+            "question": "What is an unusual experience I\u2019ve had in a city?",
+            "expected": "You got lost but found your way back."
+        },
+        {
+            "tell": "I once spent a whole day birdwatching in the forest.",
+            "question": "What outdoor activity have I spent a full day doing?",
+            "expected": "You spent a day birdwatching in the forest."
+        },
+        {
+            "tell": "My favorite city landmark is the Eiffel Tower.",
+            "question": "What is my favorite city landmark?",
+            "expected": "Your favorite city landmark is the Eiffel Tower."
+        },
+        {
+            "tell": "I love attending cultural festivals in different countries.",
+            "question": "What do I enjoy doing while traveling?",
+            "expected": "You enjoy attending cultural festivals."
+        },
+        {
+            "tell": "I enjoy jogging by the lake during sunset.",
+            "question": "When do I like jogging by the lake?",
+            "expected": "You like jogging by the lake during sunset."
+        },
+        {
+            "tell": "I love walking through sunflower fields.",
+            "question": "What do I enjoy doing in sunflower fields?",
+            "expected": "You enjoy walking through sunflower fields."
+        },
+        {
+            "tell": "My favorite place to read is by a riverside.",
+            "question": "Where do I like to read the most?",
+            "expected": "Your favorite place to read is by a riverside."
+        },
+        {
+            "tell": "I once found a four-leaf clover in a meadow.",
+            "question": "What lucky thing have I found before?",
+            "expected": "You found a four-leaf clover in a meadow."
+        },
+        {
+            "tell": "I once created a scrapbook of my summer vacation.",
+            "question": "What creative project did I make about my vacation?",
+            "expected": "You created a scrapbook of your summer vacation."
+        },
+        {
+            "tell": "I once stayed at a treehouse hotel during a vacation.",
+            "question": "What is a unique place I\u2019ve stayed at?",
+            "expected": "You stayed at a treehouse hotel."
+        },
+        {
+            "tell": "I enjoy watching fireflies in the countryside at night.",
+            "question": "What do I enjoy doing in the countryside at night?",
+            "expected": "You enjoy watching fireflies."
+        },
+        {
+            "tell": "My favorite time to visit the beach is early morning.",
+            "question": "When do I like visiting the beach?",
+            "expected": "You like visiting the beach in the early morning."
+        },
+        {
+            "tell": "I once took a road trip across my country with friends.",
+            "question": "What is an adventure I\u2019ve done with friends?",
+            "expected": "You took a road trip across your country."
+        },
+        {
+            "tell": "I like visiting aquariums to see jellyfish.",
+            "question": "What do I like seeing at aquariums?",
+            "expected": "You like seeing jellyfish."
+        },
+        {
+            "tell": "I love planting sunflowers in my backyard every spring.",
+            "question": "What do I enjoy planting in spring?",
+            "expected": "You enjoy planting sunflowers."
+        },
+        {
+            "tell": "I love walking along the beach during sunset.",
+            "question": "When do I like walking on the beach?",
+            "expected": "During sunset."
+        },
+        {
+            "tell": "I love watching ballet performances at theaters.",
+            "question": "What kind of performances do I love watching?",
+            "expected": "Ballet performances."
+        },
+        {
+            "tell": "My favorite time to visit the mountains is in autumn.",
+            "question": "When do I enjoy visiting the mountains?",
+            "expected": "In autumn."
+        },
+        {
+            "tell": "My favorite holiday destination is the Maldives.",
+            "question": "What is my favorite holiday destination?",
+            "expected": "Your favorite holiday destination is the Maldives."
+        },
+        {
+            "tell": "I once rode a camel during a desert safari.",
+            "question": "What adventurous activity did I do in the desert?",
+            "expected": "You rode a camel during a desert safari."
+        },
+        {
+            "tell": "I love watching lightning storms from my balcony.",
+            "question": "What do I enjoy watching during storms?",
+            "expected": "You enjoy watching lightning storms."
+        },
+        {
+            "tell": "I like visiting old libraries to feel the history.",
+            "question": "Where do I enjoy going to feel connected to history?",
+            "expected": "You enjoy visiting old libraries."
+        },
+        {
+            "tell": "I once watched the sunrise from the top of a mountain.",
+            "question": "What is one memorable experience I\u2019ve had in nature?",
+            "expected": "You watched the sunrise from the top of a mountain."
+        },
+        {
+            "tell": "I always carry a sketchpad when I visit new places.",
+            "question": "What do I carry with me when traveling?",
+            "expected": "A sketchpad."
+        },
+        {
+            "tell": "I once attended a jazz festival in New Orleans.",
+            "question": "What type of festival have I attended?",
+            "expected": "A jazz festival in New Orleans."
+        },
+        {
+            "tell": "I love exploring small, cozy bookstores in new cities.",
+            "question": "What do I enjoy exploring in new cities?",
+            "expected": "Small, cozy bookstores."
+        },
+        {
+            "tell": "I enjoy cycling through quiet villages.",
+            "question": "What do I enjoy doing in villages?",
+            "expected": "You enjoy cycling through quiet villages."
+        },
+        {
+            "tell": "I love visiting aquariums to see colorful fish.",
+            "question": "Why do I enjoy visiting aquariums?",
+            "expected": "To see colorful fish."
+        },
+        {
+            "tell": "My favorite place to write is in a quiet coffee shop.",
+            "question": "Where do I like writing the most?",
+            "expected": "In a quiet coffee shop."
+        },
+        {
+            "tell": "I enjoy practicing Tai Chi in the park.",
+            "question": "What activity do I enjoy practicing in the park?",
+            "expected": "You enjoy practicing Tai Chi."
+        },
+        {
+            "tell": "I love walking through botanical gardens to relax.",
+            "question": "Where do I like to go to relax?",
+            "expected": "Botanical gardens."
+        },
+        {
+            "tell": "My favorite place to relax is a hammock in my backyard.",
+            "question": "Where do I like to relax the most?",
+            "expected": "In a hammock in your backyard."
+        },
+        {
+            "tell": "I once made a scrapbook to remember my summer vacation.",
+            "question": "What creative project have I made about a trip?",
+            "expected": "A scrapbook of your summer vacation."
+        },
+        {
+            "tell": "I love spending time by rivers to read and relax.",
+            "question": "Where do I enjoy spending time to read?",
+            "expected": "By rivers."
+        },
+        {
+            "tell": "I enjoy watching sunsets from the top of a hill.",
+            "question": "Where do I like to watch sunsets?",
+            "expected": "From the top of a hill."
+        },
+        {
+            "tell": "My favorite beach memory is flying a kite.",
+            "question": "What is my favorite memory at the beach?",
+            "expected": "Flying a kite."
+        }
+    ],
+    "Significant_Events": [
+        {
+            "tell": "The first time I traveled by plane was when I was 20 years old",
+            "question": "When was the first time I traveled by plane?",
+            "expected": "When you were 18 years old"
+        },
+        {
+            "tell": "The first book I ever read was \u201cHarry Potter.\u201d",
+            "question": "What was the first book I read?",
+            "expected": "The first book you read was \u201cHarry Potter.\u201d"
+        },
+        {
+            "tell": "I once climbed the tallest mountain in my country.",
+            "question": "What is one adventurous thing I've done?",
+            "expected": "You climbed the tallest mountain in your country."
+        },
+        {
+            "tell": "I started learning how to play the piano at age 10.",
+            "question": "When did I start learning to play the piano?",
+            "expected": "You started at age 10."
+        },
+        {
+            "tell": "I learned how to ride a bicycle when I was 7 years old.",
+            "question": "When did I learn to ride a bicycle?",
+            "expected": "When you were 7 years old."
+        },
+        {
+            "tell": "I always celebrate Christmas with my family.",
+            "question": "How do I usually celebrate Christmas?",
+            "expected": "You celebrate Christmas with your family."
+        },
+        {
+            "tell": "The last movie I watched was \u201cInception.\u201d",
+            "question": "What was the last movie I watched?",
+            "expected": "The last movie you watched was \u201cInception.\u201d"
+        },
+        {
+            "tell": "My first job was as a waiter at a local caf\u00e9.",
+            "question": "What was my first job?",
+            "expected": "Your first job was as a waiter at a local caf\u00e9."
+        },
+        {
+            "tell": "I grew up in a small village near the mountains.",
+            "question": "Where did I grow up?",
+            "expected": "You grew up in a small village near the mountains."
+        },
+        {
+            "tell": "I once saw a solar eclipse while traveling.",
+            "question": "What unique natural event have I witnessed?",
+            "expected": "You witnessed a solar eclipse while traveling."
+        },
+        {
+            "tell": "My childhood nickname was \u201cBunny.\u201d",
+            "question": "What was my childhood nickname?",
+            "expected": "Your childhood nickname was \u201cBunny.\u201d"
+        },
+        {
+            "tell": "My best vacation was a road trip across Vietnam.",
+            "question": "What was my best vacation?",
+            "expected": "Your best vacation was a road trip across Vietnam."
+        },
+        {
+            "tell": "I learned how to code when I was in university.",
+            "question": "When did I learn how to code?",
+            "expected": "You learned how to code in university."
+        },
+        {
+            "tell": "The first concert I attended was a Coldplay concert.",
+            "question": "What was the first concert I attended?",
+            "expected": "The first concert you attended was a Coldplay concert."
+        },
+        {
+            "tell": "I once baked a cake for my best friend's birthday.",
+            "question": "What special thing did I do for my best friend?",
+            "expected": "You baked a cake for their birthday."
+        },
+        {
+            "tell": "I once stayed up all night to finish a painting.",
+            "question": "What is something creative I stayed up all night for?",
+            "expected": "You stayed up all night to finish a painting."
+        },
+        {
+            "tell": "I once found a rare shell while walking on the beach.",
+            "question": "What is something special I found on the beach?",
+            "expected": "You found a rare shell."
+        },
+        {
+            "tell": "My childhood hero was Spiderman.",
+            "question": "Who was my childhood hero?",
+            "expected": "Your childhood hero was Spiderman."
+        },
+        {
+            "tell": "I once spent a week camping in the forest.",
+            "question": "What is one adventurous trip I\u2019ve taken?",
+            "expected": "You spent a week camping in the forest."
+        },
+        {
+            "tell": "I spent last summer learning how to surf.",
+            "question": "What did I do last summer?",
+            "expected": "You learned how to surf."
+        },
+        {
+            "tell": "I once organized a charity event for children.",
+            "question": "What special event have I organized?",
+            "expected": "You organized a charity event for children."
+        },
+        {
+            "tell": "I once painted a mural for my school.",
+            "question": "What creative project did I do for my school?",
+            "expected": "You painted a mural."
+        },
+        {
+            "tell": "I once wrote a short story that won an award.",
+            "question": "What is one of my achievements in writing?",
+            "expected": "You wrote a short story that won an award."
+        },
+        {
+            "tell": "I once wrote a letter to my future self.",
+            "question": "What did I do to reflect on my future?",
+            "expected": "You wrote a letter to your future self."
+        },
+        {
+            "tell": "I once designed a custom T-shirt for my friend.",
+            "question": "What unique gift have I given to a friend?",
+            "expected": "You designed a custom T-shirt for your friend."
+        },
+        {
+            "tell": "I once cooked a three-course meal for my family.",
+            "question": "What special thing have I done for my family?",
+            "expected": "You cooked a three-course meal."
+        },
+        {
+            "tell": "I once participated in a school play as the main character.",
+            "question": "What role did I play in a school play?",
+            "expected": "You were the main character."
+        },
+        {
+            "tell": "I once spent a night camping under the stars with my friends.",
+            "question": "What memorable experience did I have with friends?",
+            "expected": "You camped under the stars with them."
+        },
+        {
+            "tell": "I once met a celebrity at an airport.",
+            "question": "Where did I meet a celebrity?",
+            "expected": "You met a celebrity at an airport."
+        },
+        {
+            "tell": "I once built a treehouse with my friends.",
+            "question": "What did I build with my friends?",
+            "expected": "You built a treehouse with your friends."
+        },
+        {
+            "tell": "My childhood pet was a goldfish named Bubbles.",
+            "question": "What was the name of my childhood pet?",
+            "expected": "Your childhood pet's name was Bubbles."
+        },
+        {
+            "tell": "I once volunteered to plant trees in a local park.",
+            "question": "What volunteer activity have I participated in?",
+            "expected": "You volunteered to plant trees in a local park."
+        },
+        {
+            "tell": "I once spent a weekend learning how to knit.",
+            "question": "What new skill did I learn over a weekend?",
+            "expected": "You learned how to knit."
+        },
+        {
+            "tell": "I once rode a horse on a mountain trail.",
+            "question": "What adventurous activity have I done on a trail?",
+            "expected": "You rode a horse on a mountain trail."
+        },
+        {
+            "tell": "I once got lost in a big city but found my way back.",
+            "question": "What is an unusual experience I\u2019ve had in a city?",
+            "expected": "You got lost but found your way back."
+        },
+        {
+            "tell": "I once spent a whole day birdwatching in the forest.",
+            "question": "What outdoor activity have I spent a full day doing?",
+            "expected": "You spent a day birdwatching in the forest."
+        },
+        {
+            "tell": "I once climbed a lighthouse to watch the sunset.",
+            "question": "What unique experience have I had near the ocean?",
+            "expected": "You climbed a lighthouse to watch the sunset."
+        },
+        {
+            "tell": "I once attended a pottery workshop and made a vase.",
+            "question": "What creative workshop did I attend?",
+            "expected": "You attended a pottery workshop and made a vase."
+        },
+        {
+            "tell": "I once fostered a stray puppy until it found a home.",
+            "question": "What act of kindness have I done for an animal?",
+            "expected": "You fostered a stray puppy until it found a home."
+        },
+        {
+            "tell": "I once stayed awake all night to watch a meteor shower.",
+            "question": "What is something special I\u2019ve done at night?",
+            "expected": "You stayed awake all night to watch a meteor shower."
+        },
+        {
+            "tell": "I once participated in a cooking competition at school.",
+            "question": "What type of competition have I participated in?",
+            "expected": "You participated in a cooking competition at school."
+        },
+        {
+            "tell": "My favorite childhood memory is flying a kite.",
+            "question": "What is my favorite childhood memory?",
+            "expected": "Flying a kite is your favorite childhood memory."
+        },
+        {
+            "tell": "I once found a four-leaf clover in a meadow.",
+            "question": "What lucky thing have I found before?",
+            "expected": "You found a four-leaf clover in a meadow."
+        },
+        {
+            "tell": "I once built a model airplane as a science project.",
+            "question": "What project did I create for science class?",
+            "expected": "You built a model airplane."
+        },
+        {
+            "tell": "I once painted a portrait of my best friend.",
+            "question": "What artistic thing have I done for my friend?",
+            "expected": "You painted a portrait of your best friend."
+        },
+        {
+            "tell": "I once participated in a marathon to support a charity.",
+            "question": "What event have I joined for a cause?",
+            "expected": "You participated in a charity marathon."
+        },
+        {
+            "tell": "I once spent a night sleeping under the stars.",
+            "question": "What memorable outdoor experience have I had?",
+            "expected": "You spent a night sleeping under the stars."
+        },
+        {
+            "tell": "I once took a road trip across my country with friends.",
+            "question": "What is an adventure I\u2019ve done with friends?",
+            "expected": "You took a road trip across your country."
+        },
+        {
+            "tell": "I once designed a logo for a friend\u2019s business.",
+            "question": "What creative project did I do for a friend?",
+            "expected": "You designed a logo for their business."
+        },
+        {
+            "tell": "I once wrote a song for a special occasion.",
+            "question": "What unique thing have I written before?",
+            "expected": "You wrote a song for a special occasion."
+        },
+        {
+            "tell": "I once learned how to make origami animals.",
+            "question": "What creative skill have I learned?",
+            "expected": "You learned how to make origami animals."
+        },
+        {
+            "tell": "I once baked a loaf of bread for the first time.",
+            "question": "What new thing have I tried baking?",
+            "expected": "You baked a loaf of bread for the first time."
+        },
+        {
+            "tell": "I once climbed a tower to see the city view at night.",
+            "question": "What unique activity have I done to see a city view?",
+            "expected": "You climbed a tower at night."
+        },
+        {
+            "tell": "I once helped plant flowers in a community garden.",
+            "question": "What community activity have I done?",
+            "expected": "You helped plant flowers in a community garden."
+        },
+        {
+            "tell": "I once took part in a photography contest.",
+            "question": "What contest have I participated in?",
+            "expected": "You participated in a photography contest."
+        },
+        {
+            "tell": "I once attended a workshop on how to make sushi.",
+            "question": "What type of workshop have I attended?",
+            "expected": "You attended a sushi-making workshop."
+        },
+        {
+            "tell": "I once stayed in a cabin in the mountains during winter.",
+            "question": "What unique accommodation have I stayed in?",
+            "expected": "You stayed in a cabin in the mountains during winter."
+        },
+        {
+            "tell": "I once donated my old clothes to a local charity.",
+            "question": "What act of kindness have I done recently?",
+            "expected": "You donated your old clothes to a local charity."
+        },
+        {
+            "tell": "I once rode a camel during a desert safari.",
+            "question": "What adventurous activity did I do in the desert?",
+            "expected": "You rode a camel during a desert safari."
+        },
+        {
+            "tell": "I once went scuba diving to explore coral reefs.",
+            "question": "What underwater activity have I tried?",
+            "expected": "You went scuba diving to explore coral reefs."
+        },
+        {
+            "tell": "I once joined a photography club in college.",
+            "question": "What club did I join in college?",
+            "expected": "You joined a photography club in college."
+        },
+        {
+            "tell": "I once watched the sunrise from the top of a mountain.",
+            "question": "What is one memorable experience I\u2019ve had in nature?",
+            "expected": "You watched the sunrise from the top of a mountain."
+        },
+        {
+            "tell": "I once took a pottery class to learn how to make bowls.",
+            "question": "What class have I taken to learn a creative skill?",
+            "expected": "You took a pottery class to make bowls."
+        },
+        {
+            "tell": "My favorite childhood memory is baking cookies with my grandma.",
+            "question": "What is my favorite childhood memory?",
+            "expected": "Baking cookies with your grandma."
+        },
+        {
+            "tell": "I once joined a hiking group to explore new trails.",
+            "question": "What group activity have I participated in?",
+            "expected": "You joined a hiking group to explore new trails."
+        },
+        {
+            "tell": "I once attended a jazz festival in New Orleans.",
+            "question": "What type of festival have I attended?",
+            "expected": "A jazz festival in New Orleans."
+        },
+        {
+            "tell": "My favorite childhood activity was building sandcastles.",
+            "question": "What was my favorite activity as a child?",
+            "expected": "Building sandcastles."
+        },
+        {
+            "tell": "I once planted a vegetable garden with my family.",
+            "question": "What gardening activity have I done with my family?",
+            "expected": "You planted a vegetable garden."
+        },
+        {
+            "tell": "I once saw a double rainbow after a storm.",
+            "question": "What is a unique weather phenomenon I\u2019ve seen?",
+            "expected": "A double rainbow after a storm."
+        },
+        {
+            "tell": "I once volunteered at an animal shelter to help stray dogs.",
+            "question": "Where have I volunteered before?",
+            "expected": "At an animal shelter to help stray dogs."
+        },
+        {
+            "tell": "I once created a photo album for a friend's wedding.",
+            "question": "What meaningful gift have I made for someone?",
+            "expected": "A photo album for a friend\u2019s wedding."
+        },
+        {
+            "tell": "I once spent a week learning to paddleboard.",
+            "question": "What water sport have I learned?",
+            "expected": "You learned to paddleboard."
+        },
+        {
+            "tell": "I once went snorkeling to see coral reefs.",
+            "question": "What water activity have I tried before?",
+            "expected": "You went snorkeling to see coral reefs."
+        },
+        {
+            "tell": "I once helped organize a charity run for children.",
+            "question": "What charity event have I organized?",
+            "expected": "A charity run for children."
+        },
+        {
+            "tell": "I once spent a night camping in the desert.",
+            "question": "Where have I gone camping before?",
+            "expected": "In the desert."
+        },
+        {
+            "tell": "I once attended a workshop on calligraphy.",
+            "question": "What creative workshop have I attended?",
+            "expected": "A calligraphy workshop."
+        },
+        {
+            "tell": "I once volunteered to clean up a local beach.",
+            "question": "What volunteer work have I done for the environment?",
+            "expected": "Beach cleanup."
+        },
+        {
+            "tell": "I once learned how to make candles at a workshop.",
+            "question": "What creative skill have I learned at a workshop?",
+            "expected": "You learned to make candles."
+        },
+        {
+            "tell": "I once made a scrapbook to remember my summer vacation.",
+            "question": "What creative project have I made about a trip?",
+            "expected": "A scrapbook of your summer vacation."
+        },
+        {
+            "tell": "I once learned to play the ukulele during a summer break.",
+            "question": "What musical instrument did I learn to play?",
+            "expected": "The ukulele."
+        },
+        {
+            "tell": "I once attended a workshop on making macram\u00e9.",
+            "question": "What craft workshop have I attended?",
+            "expected": "A macram\u00e9 workshop."
+        },
+        {
+            "tell": "I once painted a mural for my school library.",
+            "question": "What art project have I worked on for school?",
+            "expected": "A mural for your school library."
+        },
+        {
+            "tell": "I once wrote a poem about the stars.",
+            "question": "What have I written about before?",
+            "expected": "You wrote a poem about the stars."
+        },
+        {
+            "tell": "I once took a photography course to improve my skills.",
+            "question": "What course have I taken to improve a hobby?",
+            "expected": "A photography course."
+        },
+        {
+            "tell": "My favorite beach memory is flying a kite.",
+            "question": "What is my favorite memory at the beach?",
+            "expected": "Flying a kite."
+        },
+        {
+            "tell": "I once learned how to sew a tote bag in a workshop.",
+            "question": "What sewing project have I worked on?",
+            "expected": "A tote bag."
+        },
+        {
+            "tell": "I once attended a workshop on bookbinding.",
+            "question": "What workshop have I attended to learn a new craft?",
+            "expected": "A bookbinding workshop."
+        },
+        {
+            "tell": "I once won a trophy in a chess tournament.",
+            "question": "What award have I won?",
+            "expected": "You won a trophy in a chess tournament."
+        },
+        {
+            "tell": "I learned how to swim when I was 5 years old.",
+            "question": "When did I learn how to swim?",
+            "expected": "You learned how to swim when you were 5 years old."
+        },
+        {
+            "tell": "My childhood dream was to become an astronaut.",
+            "question": "What was my childhood dream job?",
+            "expected": "Your childhood dream job was to become an astronaut."
+        }
+    ],
+    "Plans_and_Goals": [
+        {
+            "tell": "My dream job is to become a doctor.",
+            "question": "What is my dream job?",
+            "expected": "Your dream job is to become a doctor."
+        },
+        {
+            "tell": "I\u2019m planning to run a marathon next year.",
+            "question": "What am I planning to do next year?",
+            "expected": "You\u2019re planning to run a marathon."
+        },
+        {
+            "tell": "I\u2019m planning to learn how to play the violin.",
+            "question": "What musical instrument am I planning to learn?",
+            "expected": "You are planning to learn the violin."
+        },
+        {
+            "tell": "I\u2019m currently saving money to buy a new laptop.",
+            "question": "What am I saving money for?",
+            "expected": "You are saving money to buy a new laptop."
+        },
+        {
+            "tell": "My dream house is by the beach.",
+            "question": "What is my dream house like?",
+            "expected": "Your dream house is by the beach."
+        },
+        {
+            "tell": "I once wrote a letter to my future self.",
+            "question": "What did I do to reflect on my future?",
+            "expected": "You wrote a letter to your future self."
+        },
+        {
+            "tell": "I dream of traveling to Japan someday.",
+            "question": "What is my dream travel destination?",
+            "expected": "Your dream travel destination is Japan."
+        },
+        {
+            "tell": "I\u2019m trying to grow a vegetable garden at home.",
+            "question": "What project am I currently working on at home?",
+            "expected": "You are growing a vegetable garden."
+        }
+    ],
+    "Ownership_and_Possessions": [
+        {
+            "tell": "I keep a photo album of all my travels.",
+            "question": "What do I keep to remember my travels?",
+            "expected": "You keep a photo album."
+        },
+        {
+            "tell": "I always carry a sketchbook when I travel.",
+            "question": "What do I always carry when traveling?",
+            "expected": "You always carry a sketchbook."
+        },
+        {
+            "tell": "I always keep a lucky coin in my wallet.",
+            "question": "What do I always carry for good luck?",
+            "expected": "You always carry a lucky coin in your wallet."
+        },
+        {
+            "tell": "I once created a scrapbook of my summer vacation.",
+            "question": "What creative project did I make about my vacation?",
+            "expected": "You created a scrapbook of your summer vacation."
+        },
+        {
+            "tell": "I love collecting antique clocks.",
+            "question": "What unique items do I collect?",
+            "expected": "You collect antique clocks."
+        },
+        {
+            "tell": "I always bring a reusable water bottle with me.",
+            "question": "What do I always carry with me?",
+            "expected": "You always carry a reusable water bottle."
+        },
+        {
+            "tell": "I always carry a sketchpad when I visit new places.",
+            "question": "What do I carry with me when traveling?",
+            "expected": "A sketchpad."
+        },
+        {
+            "tell": "My favorite place to relax is a hammock in my backyard.",
+            "question": "Where do I like to relax the most?",
+            "expected": "In a hammock in your backyard."
+        },
+        {
+            "tell": "The first car I owned was a red Toyota.",
+            "question": "What was the first car I owned?",
+            "expected": "Your first car was a red Toyota."
+        },
+        {
+            "tell": "I once adopted a stray kitten and named it Luna.",
+            "question": "What did I name the kitten I adopted?",
+            "expected": "You named the kitten Luna."
+        },
+        {
+            "tell": "I have a collection of vintage postcards.",
+            "question": "What do I collect as a hobby?",
+            "expected": "You collect vintage postcards."
+        }
+    ]
+}
